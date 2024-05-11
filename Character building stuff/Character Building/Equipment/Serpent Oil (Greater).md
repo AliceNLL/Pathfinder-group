@@ -1,0 +1,15 @@
+---
+title: "Serpent Oil (Greater)"
+noteType: ":luggage:"
+aliases: "Serpent Oil (Greater)"
+foundryId: Item.1t2RDqcZuy1qm2SJ
+tags:
+  - Item
+---
+
+# Serpent Oil (Greater)
+![[systems-pf2e-icons-default-icons-consumable.svg|150]]
+
+**Activate** 1 Interact
+
+This glistening oil has a green hue and tiny snake scales floating within. If you slather serpent oil on a Medium object that is snakelike in shape, from a stick to a scarf, the object transforms into a [[Giant-Viper]], keeping some of the same colors and patterns of the original item. If placed on other objects, the oil fails and is wasted. This false snake has the minion trait. It remains in snake form for 1 minute before returning to its object state. If slain, the item returns to its original form, unharmed.

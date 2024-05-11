@@ -1,0 +1,31 @@
+---
+title: "Milani"
+noteType: ":luggage:"
+aliases: "Milani"
+foundryId: Item.joBnDOWeiLq94sxu
+tags:
+  - Item
+---
+
+# Milani
+![[systems-pf2e-icons-deity-Milani.webp|150]]
+
+Milani is the patron mother of those who war against oppression, rewarding those willing to sacrifice their lives and use whatever tools are available to fight for those who cannot defend themselves, especially people who have been captured or enslaved. Throughout Golarion, Milani is also known as the Everbloom, as the symbol of her church is a beautiful rose growing from blood-soaked soil.
+
+* * *
+
+As a goddess of revolutions and uprisings, Milani is one of the most popular and widely worshipped gods among the Firebrands. She is the hope that dreams of a better life, the courage to fight back against oppression and injustice, and the will to see the fight through to the end, not only for oneself, but for one's neighbors and future generations. A protector goddess who respects courage and sacrifice and empathizes with the downtrodden, Milani encourages her followers to remain alert for causes worthy of their efforts and for people too scared to ask for aid.
+
+Milani's followers number among the first to say "enough is enough," to rise and fight, to draw blood and prove the battle isn't hopeless. Yet they're also among the last standing, for they fight to the end, fearing neither death nor failure and trusting in their hearts they've made a difference.
+
+Milani's followers value ingenuity. As they often fight on the under-armed, under-trained, and underfed side of a battle, they use everything around them to secure victory. Anything can be an advantage in determined and creative hands. They're also meticulous planners. Most make regular use of safe houses, supply caches, and hidden chambers. They always have an escape plan, and they're ready to act on a moment's notice. This preparation makes them skilled strategists and leaders.
+
+Since the founding of the Firebrands, numerous clandestine cells of Milanite freedom fighters have joined the group for support and resources, integrating their bases and safe houses into the Firebrand network and using their cover businesses as dead drops. Many Milanite Firebrands travel from place to place under false pretenses, usually as merchants or performers. The Sanguine Thorn cell, which travels in a wagon caravan through southern Avistan, is among the most famous, as is the River Rose, which travels northeastern Avistan by barge.
+
+Milani's followers often collaborate with followers of Cayden Cailean, Chaldira, Lubaiko, and Grandmother Spider, but rarely get along with grandstanders and daredevils, believing life is too precious to gamble needlessly and that courage isn't leaping into danger, but fighting for your ideals despite danger. Many Milanite Firebrands incorporate thorns, roses, or white feathers into their attire and wear flowery perfume.
+
+**Edicts** confront oppression in all its forms, defend the common folk, overcome despair to seize victory
+
+**Anathema** abandon those in need, enslave or oppress others, harm the innocent through direct or inadvertent action
+
+**Areas of Concern** devotion, hope, and uprisings

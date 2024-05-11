@@ -1,0 +1,13 @@
+---
+title: "Criminal Connections"
+noteType: ":luggage:"
+aliases: "Criminal Connections"
+foundryId: Item.VQPV1nXHENFandzs
+tags:
+  - Item
+---
+
+# Criminal Connections
+![[icons-sundries-books-book-red-exclamation.webp|150]]
+
+You have dealings with a variety of unsavory characters, which you can leverage to trade favors or meet powerful people. When you're in an area where you have connections (typically a settlement where you've spent downtime building connections or possibly another area in the same nation), you can attempt a Society check to arrange a meeting with an important criminal, such as a thieves' guild leader, or ask for a favor in exchange for a later favor of your contact's choice. The GM decides the DC based on the difficulty of the favor and the figure's prominence.

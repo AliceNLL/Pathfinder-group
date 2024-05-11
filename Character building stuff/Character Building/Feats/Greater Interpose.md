@@ -1,0 +1,15 @@
+---
+title: "Greater Interpose"
+noteType: ":luggage:"
+aliases: "Greater Interpose"
+foundryId: Item.j7T8f0MlIcm6sheP
+tags:
+  - Item
+---
+
+# Greater Interpose
+![[icons-sundries-books-book-red-exclamation.webp|150]]
+
+Your divine grace empowers you to avoid hits when you otherwise could not.
+
+You can use Sacrifice Armor to reduce any type of damage from an attack or effect requiring a Reflex save. When you use Sacrifice Armor against a critical hit or a critical failure on a Reflex save that would otherwise cause you to take double damage, you take the normal amount of damage instead.

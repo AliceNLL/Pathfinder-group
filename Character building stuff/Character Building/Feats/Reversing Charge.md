@@ -1,0 +1,13 @@
+---
+title: "Reversing Charge"
+noteType: ":luggage:"
+aliases: "Reversing Charge"
+foundryId: Item.6gmL4U7Uh5oggSSl
+tags:
+  - Item
+---
+
+# Reversing Charge
+![[icons-sundries-books-book-red-exclamation.webp|150]]
+
+You dive into the fray before rewinding yourself to safety. Stride up to your Speed. If you end your movement within melee reach of at least one enemy, you can make a melee Strike against that enemy. You then teleport back to the square from which you began your Snapback Charge. You can use Reversing Charge while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.

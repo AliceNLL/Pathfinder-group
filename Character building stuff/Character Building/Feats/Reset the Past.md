@@ -1,0 +1,17 @@
+---
+title: "Reset the Past"
+noteType: ":luggage:"
+aliases: "Reset the Past"
+foundryId: Item.4D4Cwg2gdcXtwu5Q
+tags:
+  - Item
+---
+
+# Reset the Past
+![[icons-sundries-books-book-red-exclamation.webp|150]]
+
+**Frequency** once per day
+
+* * *
+
+You manipulate time to recharge one of your temporal techniques-by revising your past so you never used it in the first place. Select one of your chronoskimmer feats that has a frequency of once per day (or more frequent) that you've already used. You can use the feat again, as if you hadn't used it already.
