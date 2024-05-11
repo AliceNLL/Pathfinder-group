@@ -1,5 +1,8 @@
 {
   "accentColor": "#fb9dee",
   "theme": "obsidian",
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ]
 }

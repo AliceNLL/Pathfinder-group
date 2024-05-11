@@ -11,8 +11,12 @@
             "id": "03774f138d705dd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Character backstories/Amanita.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Character backstories/Amanita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Character backstories/Amanita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Character backstories/Amanita.md"
+              }
             }
           }
         ]
@@ -140,8 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03774f138d705dd9",
+  "active": "09b510c18aae0b59",
   "lastOpenFiles": [
+    "Character Sheet.md",
+    "Notes",
     "Character building stuff/Character Building/Actions/Dragon Breath.md",
     "Character building stuff/Character Building/Actions/Draconic Frenzy.md",
     "Character building stuff/Character Building/Actions/Detect Magic.md",
@@ -168,7 +178,6 @@
     "Character building stuff/Character Building/Actions/Covered Reload.md",
     "Character building stuff/Character Building/Actions/Cover Tracks.md",
     "Character building stuff/Character Building/Actions/Coughing Dragon.md",
-    "Character building stuff/Character Building/Actions/Consume Flesh.md",
     "Character building stuff/Character Building/Actions",
     "Character building stuff/Character Building/desktop.ini",
     "Character building stuff/Character Building",
