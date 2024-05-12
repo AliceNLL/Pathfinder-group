@@ -1,10 +1,13 @@
 ---
-title: "Bayonet"
-noteType: ":luggage:"
-aliases: "Bayonet"
+title: Bayonet
+noteType: weapons
+aliases:
+  - Bayonet
 foundryId: Item.rcKskRQ6u9lfpfyO
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Bayonet

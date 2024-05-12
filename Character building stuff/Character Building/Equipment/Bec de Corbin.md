@@ -1,10 +1,13 @@
 ---
-title: "Bec de Corbin"
-noteType: ":luggage:"
-aliases: "Bec de Corbin"
+title: Bec de Corbin
+noteType: weapons
+aliases:
+  - Bec de Corbin
 foundryId: Item.rXpDP9KqeAcGx6qp
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Bec de Corbin

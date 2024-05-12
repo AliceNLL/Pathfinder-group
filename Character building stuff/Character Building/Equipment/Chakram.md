@@ -1,10 +1,13 @@
 ---
-title: "Chakram"
-noteType: ":luggage:"
-aliases: "Chakram"
+title: Chakram
+noteType: weapons
+aliases:
+  - Chakram
 foundryId: Item.fb2X9wed4clMVWGE
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Chakram

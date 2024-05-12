@@ -1,10 +1,13 @@
 ---
-title: "Battle Axe"
-noteType: ":luggage:"
-aliases: "Battle Axe"
+title: Battle Axe
+noteType: weapons
+aliases:
+  - Battle Axe
 foundryId: Item.JfzRdS9EyURaP6tJ
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Battle Axe

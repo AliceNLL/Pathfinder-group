@@ -1,10 +1,12 @@
 ---
-title: "Adze"
-noteType: ":luggage:"
-aliases: "Adze"
-foundryId: Item.v2vNuWTbkjM2VeNo
+title: Adze
+noteType: weapons
+aliases:
+  - Adze
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Adze

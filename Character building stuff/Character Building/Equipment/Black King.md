@@ -1,7 +1,8 @@
 ---
-title: "Black King"
-noteType: ":luggage:"
-aliases: "Black King"
+title: Black King
+noteType: ":luggage: :weapon:"
+aliases:
+  - Black King
 foundryId: Item.hFYdOb8WiIEWz8wO
 tags:
   - Item

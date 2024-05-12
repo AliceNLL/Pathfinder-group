@@ -1,10 +1,13 @@
 ---
-title: "Blowgun"
-noteType: ":luggage:"
-aliases: "Blowgun"
+title: Blowgun
+noteType: weapons
+aliases:
+  - Blowgun
 foundryId: Item.BYxX43i8v7k4OAwd
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Blowgun

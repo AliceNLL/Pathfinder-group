@@ -1,8 +1,8 @@
 ---
-title: "Accursed Staff (Greater)"
+title: Accursed Staff (Greater)
 noteType: ":luggage:"
-aliases: "Accursed Staff (Greater)"
-foundryId: Item.849DPDMsgvtJjTFl
+aliases:
+  - Accursed Staff (Greater)
 tags:
   - Item
 ---

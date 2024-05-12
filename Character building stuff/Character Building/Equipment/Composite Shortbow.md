@@ -1,10 +1,13 @@
 ---
-title: "Composite Shortbow"
-noteType: ":luggage:"
-aliases: "Composite Shortbow"
+title: Composite Shortbow
+noteType: weapons
+aliases:
+  - Composite Shortbow
 foundryId: Item.1iwZJ3PZ0YHRVJj5
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Composite Shortbow

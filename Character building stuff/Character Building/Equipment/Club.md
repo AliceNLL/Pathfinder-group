@@ -1,10 +1,13 @@
 ---
-title: "Club"
-noteType: ":luggage:"
-aliases: "Club"
+title: Club
+noteType: weapons
+aliases:
+  - Club
 foundryId: Item.l4fgGhN8cGDN7s6I
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Club

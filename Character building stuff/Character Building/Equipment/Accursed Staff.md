@@ -1,8 +1,8 @@
 ---
-title: "Accursed Staff"
+title: Accursed Staff
 noteType: ":luggage:"
-aliases: "Accursed Staff"
-foundryId: Item.LA78rqm6a577k36S
+aliases:
+  - Accursed Staff
 tags:
   - Item
 ---

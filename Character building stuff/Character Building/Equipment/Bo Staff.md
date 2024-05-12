@@ -1,10 +1,13 @@
 ---
-title: "Bo Staff"
-noteType: ":luggage:"
-aliases: "Bo Staff"
+title: Bo Staff
+noteType: weapons
+aliases:
+  - Bo Staff
 foundryId: Item.tR1CHo9u5ELGYlao
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Bo Staff

@@ -1,10 +1,13 @@
 ---
-title: "Composite Longbow"
-noteType: ":luggage:"
-aliases: "Composite Longbow"
+title: Composite Longbow
+noteType: weapons
+aliases:
+  - Composite Longbow
 foundryId: Item.mj6tjLtET7U6uIur
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Composite Longbow

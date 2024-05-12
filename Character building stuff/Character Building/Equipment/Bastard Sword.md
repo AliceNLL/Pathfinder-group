@@ -1,10 +1,13 @@
 ---
-title: "Bastard Sword"
-noteType: ":luggage:"
-aliases: "Bastard Sword"
+title: Bastard Sword
+noteType: weapons
+aliases:
+  - Bastard Sword
 foundryId: Item.eWA7IjyWSfuom6qe
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Bastard Sword

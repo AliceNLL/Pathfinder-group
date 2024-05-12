@@ -1,10 +1,11 @@
 ---
-title: "Acrobat's Staff"
-noteType: ":luggage:"
-aliases: "Acrobat's Staff"
-foundryId: Item.Rf9PGnwA3KVlyAm5
+title: Acrobat's Staff
+noteType: weapons
+aliases:
+  - Acrobat's Staff
 tags:
   - Item
+  - Uncommon
 ---
 
 # Acrobat's Staff

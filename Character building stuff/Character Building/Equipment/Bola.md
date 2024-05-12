@@ -1,10 +1,13 @@
 ---
-title: "Bola"
-noteType: ":luggage:"
-aliases: "Bola"
+title: Bola
+noteType: weapons
+aliases:
+  - Bola
 foundryId: Item.1wsJo5I2ftVY9zWS
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Bola

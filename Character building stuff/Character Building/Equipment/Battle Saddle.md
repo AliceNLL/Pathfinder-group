@@ -1,10 +1,13 @@
 ---
-title: "Battle Saddle"
-noteType: ":luggage:"
-aliases: "Battle Saddle"
+title: Battle Saddle
+noteType: weapons
+aliases:
+  - Battle Saddle
 foundryId: Item.rRaKZbpijrHxNeu7
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Battle Saddle

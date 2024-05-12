@@ -1,10 +1,13 @@
 ---
-title: "Arbalest"
-noteType: ":luggage:"
-aliases: "Arbalest"
+title: Arbalest
+noteType: weapons
+aliases:
+  - Arbalest
 foundryId: Item.qK6IUnVOY5m8TwXT
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Arbalest

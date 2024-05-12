@@ -1,10 +1,13 @@
 ---
-title: "Corset Knife"
-noteType: ":luggage:"
-aliases: "Corset Knife"
+title: Corset Knife
+noteType: weapons
+aliases:
+  - Corset Knife
 foundryId: Item.oMctclcnpbJbh7SV
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Corset Knife

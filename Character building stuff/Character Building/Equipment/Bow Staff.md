@@ -1,10 +1,13 @@
 ---
-title: "Bow Staff"
-noteType: ":luggage:"
-aliases: "Bow Staff"
+title: Bow Staff
+noteType: weapons
+aliases:
+  - Bow Staff
 foundryId: Item.MqQC1hlMNUPc23Wi
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Bow Staff

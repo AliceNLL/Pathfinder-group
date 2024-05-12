@@ -1,10 +1,12 @@
 ---
-title: "Atlatl"
-noteType: ":luggage:"
-aliases: "Atlatl"
-foundryId: Item.RrnWsxAXdeOlizEl
+title: Atlatl
+noteType: weapons
+aliases:
+  - Atlatl
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Atlatl
