@@ -1,10 +1,5 @@
 Kora the Tengu was born into the Broken Lands and abandoned by her flock. She has become a free spirit and has met friends from all over the Inner Sea Region. During her many adventures through the Inner Sea Region she became part of the Verdant Wheel to help keep nature afloat. Scared of ghostly noises that came from the lake of mists and veils… also found her curse there after her flock abandoned her there as a child. Born to Razmiran.
 
-
-[]()
-
-
-
 ```pf2e-stats
 # Iris of the Sky
 ## Item

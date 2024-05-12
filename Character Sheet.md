@@ -1,14 +1,14 @@
 
-| Name | Ancestry | Background | Class | Level | Size | Speed | Hero Points |
-| ---- | -------- | ---------- | ----- | ----- | ---- | ----- | ----------- |
-|      |          |            |       |       |      |       |             |
 
----
+| Ancestry | Background | Class | Level | Size | Speed |
+| :------: | :--------: | ----- | :---: | ---- | ----- |
+|          |            |       |       |      |       |
+
 
 # Stats
 
 | Health Points | Armor Class | Class DC |
-| ------------- | ----------- | -------- |
+| ------------- |:-----------:| --------:|
 |               |             |          |
 
 | Saves         | #   |
@@ -16,7 +16,7 @@
 | **Fortitude** |     |
 | **Reflex**    |     |
 | **Will**      |     |
-***Perception:
+**Perception:
 Initiative:**
 
 # Abilities

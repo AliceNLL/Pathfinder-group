@@ -1,11 +1,10 @@
 [
   "obsidian-5e-statblocks",
   "pf2e-statblocks",
-  "buttons",
   "markdown-attributes",
   "obsidian-kanban",
-  "table-editor-obsidian",
   "obsidian-admonition",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "buttons"
 ]

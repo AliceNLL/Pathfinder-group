@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21268d953fb4cc7e",
+        "id": "51fd328e50455ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "03774f138d705dd9",
+            "id": "2400e7aaa2ca1b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character backstories/Amanita.md",
+                "file": "Character Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character backstories/Amanita.md",
+                "file": "Character Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character backstories/Amanita.md",
+                "file": "Character Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character backstories/Amanita.md"
+                "file": "Character Sheet.md"
               }
+            }
+          },
+          {
+            "id": "28a5d155542cb6f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cb70556b6818bedd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e3cfbf8e2967ad4",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
             }
           }
         ]
@@ -143,12 +166,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "09b510c18aae0b59",
+  "active": "2400e7aaa2ca1b3e",
   "lastOpenFiles": [
+    "Character building stuff/Character Building/Spells/Aberrant Form.md",
+    "Character building stuff/Character Building/Feats/Twin Shot Knockdown.md",
+    "Character building stuff/Character Building/Actions/Escape.md",
+    "Character building stuff/Character Building/Feats/Cling.md",
+    "Character backstories/Kora.md",
+    "Character backstories/Thjalfi Swiftfoot.md",
+    "Character backstories/Telzi Havenbread.md",
+    "Character backstories/Ramiel.md",
+    "Character backstories/Amanita.md",
+    "Character backstories/Aoleon.md",
+    "Character backstories/Brother  Egbert.md",
+    "Character backstories/Eliana.md",
     "Character Sheet.md",
+    "Notes/Kora notes/March 18th 2024 Pathfinder notes (Kora).md",
+    "Notes/Kora notes/Kora Pathfinder Notes 2024-05-06.md",
+    "Notes/Kora notes/April 1st 2024 Kora Notes.md",
+    "Notes/Important everyone notes/Visions.md",
     "Notes",
     "Character building stuff/Character Building/Actions/Dragon Breath.md",
     "Character building stuff/Character Building/Actions/Draconic Frenzy.md",
@@ -160,22 +200,6 @@
     "Character building stuff/Character Building/Actions/Defend.md",
     "Character building stuff/Character Building/Actions/Defend Life.md",
     "Character building stuff/Character Building/Actions/Deconstruct.md",
-    "Character building stuff/Character Building/Actions/Decompose.md",
-    "Character building stuff/Character Building/Actions/Decipher Writing.md",
-    "Character building stuff/Character Building/Actions/Deceptive Sidestep.md",
-    "Character building stuff/Character Building/Actions/Debilitating Strike.md",
-    "Character building stuff/Character Building/Actions/De-Animating Gestures (True).md",
-    "Character building stuff/Character Building/Actions/De-Animating Gestures (False).md",
-    "Character building stuff/Character Building/Actions/Daydream Trance.md",
-    "Character building stuff/Character Building/Actions/Create Forgery.md",
-    "Character building stuff/Character Building/Actions/Create a Diversion.md",
-    "Character building stuff/Character Building/Actions/Crawl.md",
-    "Character building stuff/Character Building/Actions/Cram.md",
-    "Character building stuff/Character Building/Actions/Craft.md",
-    "Character building stuff/Character Building/Actions/Craft Disharmonic Instrument.md",
-    "Character building stuff/Character Building/Actions/Covered Reload.md",
-    "Character building stuff/Character Building/Actions/Cover Tracks.md",
-    "Character building stuff/Character Building/Actions/Coughing Dragon.md",
     "Character building stuff/Character Building/Actions",
     "Character building stuff/Character Building/desktop.ini",
     "Character building stuff/Character Building",
