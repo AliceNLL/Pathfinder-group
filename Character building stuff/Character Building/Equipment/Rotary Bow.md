@@ -1,10 +1,13 @@
 ---
-title: "Rotary Bow"
-noteType: ":luggage:"
-aliases: "Rotary Bow"
+title: Rotary Bow
+noteType: weapons
+aliases:
+  - Rotary Bow
 foundryId: Item.TFcCdlat1sRA9SSK
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Rotary Bow

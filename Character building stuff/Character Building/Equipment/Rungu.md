@@ -1,10 +1,13 @@
 ---
-title: "Rungu"
-noteType: ":luggage:"
-aliases: "Rungu"
+title: Rungu
+noteType: weapons
+aliases:
+  - Rungu
 foundryId: Item.27L3DAxKM2y2VMTH
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Rungu

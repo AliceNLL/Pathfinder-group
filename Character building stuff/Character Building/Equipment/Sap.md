@@ -1,10 +1,13 @@
 ---
-title: "Sap"
-noteType: ":luggage:"
-aliases: "Sap"
+title: Sap
+noteType: weapons
+aliases:
+  - Sap
 foundryId: Item.7QqLtlkyeyafcb8t
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Sap

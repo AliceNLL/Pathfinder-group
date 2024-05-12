@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Razor Disc.md",
+                "file": "Character building stuff/Character Building/Equipment/Scizore.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Razor Disc Shield",
+                "query": "file:Scizore ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Razor Disc.md",
+                "file": "Character building stuff/Character Building/Equipment/Scizore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Razor Disc.md",
+                "file": "Character building stuff/Character Building/Equipment/Scizore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Razor Disc.md"
+                "file": "Character building stuff/Character Building/Equipment/Scizore.md"
               }
             }
           }
@@ -169,6 +168,16 @@
   },
   "active": "17294dedd63658b3",
   "lastOpenFiles": [
+    "Air Repeater - Weapons (Base) - Equipment - Archives of Nethys Pathfinder 2nd Edition Database.md",
+    "Untitled.md",
+    "Character building stuff/Character Building/Equipment/Scizore.md",
+    "Character building stuff/Character Building/Equipment/Scimitar.md",
+    "Character building stuff/Character Building/Equipment/Sap.md",
+    "Character building stuff/Character Building/Equipment/Rungu.md",
+    "Character building stuff/Character Building/Equipment/Rotary Bow.md",
+    "Character building stuff/Character Building/Equipment/Reinforced Wheels.md",
+    "Character building stuff/Character Building/Equipment/Reinforced Stock.md",
+    "Character building stuff/Character Building/Equipment/Razor Disc.md",
     "Character building stuff/Character Building/Equipment/Rapier.md",
     "Character building stuff/Character Building/Equipment/Ranseur.md",
     "Character building stuff/Character Building/Equipment/Probing Cane.md",
@@ -185,16 +194,6 @@
     "Character building stuff/Character Building/Equipment/Machete.md",
     "Character building stuff/Character Building/Equipment/Mace.md",
     "Character building stuff/Character Building/Equipment/Longsword.md",
-    "Character building stuff/Character Building/Equipment/Longspear.md",
-    "Character building stuff/Character Building/Equipment/Longbow.md",
-    "Character building stuff/Character Building/Equipment/Long Hammer.md",
-    "Character building stuff/Character Building/Equipment/Light Pick.md",
-    "Character building stuff/Character Building/Equipment/Light Mace.md",
-    "Character building stuff/Character Building/Equipment/Light Hammer.md",
-    "Character building stuff/Character Building/Equipment/Lancer.md",
-    "Character building stuff/Character Building/Equipment/Lance.md",
-    "Character building stuff/Character Building/Equipment/Knuckle Duster.md",
-    "Character building stuff/Character Building/Equipment/Klar.md",
     "Character building stuff/Character Building/Class Features/zz_asset-files/icons-weapons-fist-fist-katar-triple-gold-black.webp",
     "Character building stuff/Character Building/Equipment/zz_asset-files/icons-weapons-fist-fist-katar-triple-engraved.webp",
     "Character building stuff/Character Building/Equipment/zz_asset-files/icons-weapons-fist-fist-katar-gold.webp",

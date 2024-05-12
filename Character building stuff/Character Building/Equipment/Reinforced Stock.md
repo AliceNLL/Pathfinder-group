@@ -1,10 +1,13 @@
 ---
-title: "Reinforced Stock"
-noteType: ":luggage:"
-aliases: "Reinforced Stock"
+title: Reinforced Stock
+noteType: weapons
+aliases:
+  - Reinforced Stock
 foundryId: Item.zhJra8uEQAoL1f0H
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Reinforced Stock

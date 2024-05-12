@@ -1,10 +1,13 @@
 ---
-title: "Reinforced Wheels"
-noteType: ":luggage:"
-aliases: "Reinforced Wheels"
+title: Reinforced Wheels
+noteType: weapons
+aliases:
+  - Reinforced Wheels
 foundryId: Item.1pwMXVPcPrg8oyiA
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Reinforced Wheels

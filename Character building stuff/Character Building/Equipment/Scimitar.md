@@ -1,10 +1,13 @@
 ---
-title: "Scimitar"
-noteType: ":luggage:"
-aliases: "Scimitar"
+title: Scimitar
+noteType: weapons
+aliases:
+  - Scimitar
 foundryId: Item.HZ8rPEVuBBXfqFkT
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Scimitar

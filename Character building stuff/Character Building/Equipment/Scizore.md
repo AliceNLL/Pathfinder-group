@@ -1,10 +1,13 @@
 ---
-title: "Scizore"
-noteType: ":luggage:"
-aliases: "Scizore"
+title: Scizore
+noteType: weapons
+aliases:
+  - Scizore
 foundryId: Item.DWlD973BTldu1wRb
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Scizore
