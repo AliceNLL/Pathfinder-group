@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11f6f2f64f345751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4ff059b9967cadf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Kora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Sheet.md",
+                "file": "Characters/Kora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Sheet.md",
+                "file": "Characters/Kora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Sheet.md"
+                "file": "Characters/Kora.md"
               }
             }
           },
@@ -170,8 +195,24 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2400e7aaa2ca1b3e",
+  "active": "b4ff059b9967cadf",
   "lastOpenFiles": [
+    "Character building stuff/Character Building/Class Features/Gunslinger's Way.md",
+    "Characters/Kora.md",
+    "Character building stuff/Character Building/Feats/Squawk!.md",
+    "Character building stuff/Character Building/Heritages/Jinxed Tengu.md",
+    "Character Sheet.md",
+    "Characters/Telzi Havenbread.md",
+    "Characters/Thjalfi Swiftfoot.md",
+    "Characters/Ramiel.md",
+    "Characters/Eliana.md",
+    "Characters/Amanita.md",
+    "Characters/Aoleon.md",
+    "Characters/Brother  Egbert.md",
+    "Characters",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Notes/Important everyone notes/Visions.md",
     "Character building stuff/Character Building/Spells/Aberrant Form.md",
     "Character building stuff/Character Building/Feats/Twin Shot Knockdown.md",
     "Character building stuff/Character Building/Actions/Escape.md",
@@ -183,23 +224,8 @@
     "Character backstories/Amanita.md",
     "Character backstories/Aoleon.md",
     "Character backstories/Brother  Egbert.md",
-    "Character backstories/Eliana.md",
-    "Character Sheet.md",
-    "Notes/Kora notes/March 18th 2024 Pathfinder notes (Kora).md",
-    "Notes/Kora notes/Kora Pathfinder Notes 2024-05-06.md",
-    "Notes/Kora notes/April 1st 2024 Kora Notes.md",
-    "Notes/Important everyone notes/Visions.md",
     "Notes",
-    "Character building stuff/Character Building/Actions/Dragon Breath.md",
-    "Character building stuff/Character Building/Actions/Draconic Frenzy.md",
-    "Character building stuff/Character Building/Actions/Detect Magic.md",
-    "Character building stuff/Character Building/Actions/Destructive Vengeance.md",
     "Character building stuff/Character Building/Actions/desktop.ini",
-    "Character building stuff/Character Building/Actions/Demoralize.md",
-    "Character building stuff/Character Building/Actions/Delay.md",
-    "Character building stuff/Character Building/Actions/Defend.md",
-    "Character building stuff/Character Building/Actions/Defend Life.md",
-    "Character building stuff/Character Building/Actions/Deconstruct.md",
     "Character building stuff/Character Building/Actions",
     "Character building stuff/Character Building/desktop.ini",
     "Character building stuff/Character Building",

@@ -1,24 +1,51 @@
 
+````col
+height=medium
+===
+```col-md
+flexGrow=1
+===
+#### General Stuff
+ |
+ ---|---|
+ **Ancestry**||
+ **Background**||
+ **Class**||
+ **Level**||
+ **Size**||
+ **Speed**||
+```
 
-| Ancestry | Background | Class | Level | Size | Speed |
-| :------: | :--------: | ----- | :---: | ---- | ----- |
-|          |            |       |       |      |       |
+```col-md
+flexGrow=1
+===
+#### Stats
+ |
+ ---|---|
+ **Health Points**||
+ **Armor Class**||
+ **Class DC**||
 
+ |
+ ---|---|
+ **Perception**||
+ **Initiative**||
 
-# Stats
+```
 
-| Health Points | Armor Class | Class DC |
-| ------------- |:-----------:| --------:|
-|               |             |          |
+```col-md
+flexGrow=1
+===
+#### Saves
+ |
+ ---|---|
+ **Fortitude**||
+ **Refelx**||
+ **Will**||
+ ```
+````
 
-| Saves         | #   |
-| ------------- | --- |
-| **Fortitude** |     |
-| **Reflex**    |     |
-| **Will**      |     |
-**Perception:
-Initiative:**
-
+---
 # Abilities
 
 ### Level 1
@@ -88,7 +115,9 @@ Initiative:**
 
 #### Extra:
 
----
+
+
+
 # Skills
 
 | Name             | Train level | Stat # |
@@ -141,5 +170,3 @@ Initiative:**
 # Pets
 
 # Gear
-
-

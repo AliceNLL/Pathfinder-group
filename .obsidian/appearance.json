@@ -3,6 +3,7 @@
   "theme": "obsidian",
   "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "snippet1"
   ]
 }
