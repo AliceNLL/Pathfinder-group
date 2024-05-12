@@ -1,10 +1,13 @@
 ---
-title: "Lancer"
-noteType: ":luggage:"
-aliases: "Lancer"
+title: Lancer
+noteType: weapons
+aliases:
+  - Lancer
 foundryId: Item.Az5t0DeVIy6zCgY0
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Lancer

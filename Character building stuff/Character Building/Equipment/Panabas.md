@@ -1,10 +1,13 @@
 ---
-title: "Panabas"
-noteType: ":luggage:"
-aliases: "Panabas"
+title: Panabas
+noteType: weapons
+aliases:
+  - Panabas
 foundryId: Item.AN1sjTeVisRe2Fnv
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Panabas

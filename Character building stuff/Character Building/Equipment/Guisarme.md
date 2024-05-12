@@ -1,10 +1,13 @@
 ---
-title: "Guisarme"
-noteType: ":luggage:"
-aliases: "Guisarme"
+title: Guisarme
+noteType: weapons
+aliases:
+  - Guisarme
 foundryId: Item.DEOcjwfDXbQwFZ3v
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Guisarme

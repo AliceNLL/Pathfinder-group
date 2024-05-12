@@ -1,10 +1,13 @@
 ---
-title: "Dagger"
-noteType: ":luggage:"
-aliases: "Dagger"
+title: Dagger
+noteType: weapons
+aliases:
+  - Dagger
 foundryId: Item.TgB46Ycx0HZDHKXe
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Dagger

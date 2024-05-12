@@ -1,10 +1,13 @@
 ---
-title: "Klar"
-noteType: ":luggage:"
-aliases: "Klar"
+title: Klar
+noteType: weapons
+aliases:
+  - Klar
 foundryId: Item.41RLcR9QYCyiw8aW
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Klar

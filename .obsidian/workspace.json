@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6755d5d63a840d7f",
+        "id": "5b04b8659635d26c",
         "type": "tabs",
         "children": [
           {
-            "id": "fba0cdc4c030d6a5",
+            "id": "17294dedd63658b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Character building stuff/Character Building/Equipment/Razor Disc.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "Weapons.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corset",
+                "query": "file:Razor Disc Shield",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Character building stuff/Character Building/Equipment/Razor Disc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Character building stuff/Character Building/Equipment/Razor Disc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Character building stuff/Character Building/Equipment/Razor Disc.md"
               }
             }
           }
@@ -166,33 +167,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fba0cdc4c030d6a5",
+  "active": "17294dedd63658b3",
   "lastOpenFiles": [
-    "Notes/Important everyone notes/Visions.md",
-    "Notes/Kora notes/March 18th 2024 Pathfinder notes (Kora).md",
-    "Notes/Kora notes/Kora Pathfinder Notes 2024-05-06.md",
-    "Notes/Kora notes/April 1st 2024 Kora Notes.md",
-    "Character Sheet.md",
-    "Characters/Kora.md",
-    "Character building stuff/Character Building/Feats/Dual-Weapon Reload.md",
-    "Characters/Eliana.md",
-    "Characters/Thjalfi Swiftfoot.md",
-    "Characters/Telzi Havenbread.md",
-    "Characters/Amanita.md",
-    "Characters/Aoleon.md",
-    "Characters/Brother  Egbert.md",
-    "Character building stuff/Character Building/Equipment/Corset Knife.md",
-    "Character building stuff/Character Building/Equipment/Composite Shortbow.md",
-    "Character building stuff/Character Building/Equipment/Composite Longbow.md",
-    "Character building stuff/Character Building/Equipment/Club.md",
-    "Character building stuff/Character Building/Equipment/Chakram.md",
-    "Character building stuff/Character Building/Equipment/Bow Staff.md",
-    "Character building stuff/Character Building/Equipment/Alchemical Crossbow.md",
-    "Weapons.md",
-    "Character building stuff/Character Building/Equipment/Bola.md",
-    "Character building stuff/Character Building/Equipment/Bo Staff.md",
-    "Character building stuff/Character Building/Equipment/Atmospheric Staff (Major).md",
-    "Character building stuff/Character Building/Equipment/Animal Staff.md",
-    "Character building stuff/Character Building/Equipment/Accursed Staff.md"
+    "Character building stuff/Character Building/Equipment/Rapier.md",
+    "Character building stuff/Character Building/Equipment/Ranseur.md",
+    "Character building stuff/Character Building/Equipment/Probing Cane.md",
+    "Character building stuff/Character Building/Equipment/Pick.md",
+    "Character building stuff/Character Building/Equipment/Phalanx Piercer.md",
+    "Character building stuff/Character Building/Equipment/Panabas.md",
+    "Character building stuff/Character Building/Equipment/Nodachi.md",
+    "Character building stuff/Character Building/Equipment/Morningstar.md",
+    "Character building stuff/Character Building/Equipment/Monkey's Fist.md",
+    "Character building stuff/Character Building/Equipment/Mikazuki.md",
+    "Character building stuff/Character Building/Equipment/Meteor Hammer.md",
+    "Character building stuff/Character Building/Equipment/Maul.md",
+    "Character building stuff/Character Building/Equipment/Main-Gauche.md",
+    "Character building stuff/Character Building/Equipment/Machete.md",
+    "Character building stuff/Character Building/Equipment/Mace.md",
+    "Character building stuff/Character Building/Equipment/Longsword.md",
+    "Character building stuff/Character Building/Equipment/Longspear.md",
+    "Character building stuff/Character Building/Equipment/Longbow.md",
+    "Character building stuff/Character Building/Equipment/Long Hammer.md",
+    "Character building stuff/Character Building/Equipment/Light Pick.md",
+    "Character building stuff/Character Building/Equipment/Light Mace.md",
+    "Character building stuff/Character Building/Equipment/Light Hammer.md",
+    "Character building stuff/Character Building/Equipment/Lancer.md",
+    "Character building stuff/Character Building/Equipment/Lance.md",
+    "Character building stuff/Character Building/Equipment/Knuckle Duster.md",
+    "Character building stuff/Character Building/Equipment/Klar.md",
+    "Character building stuff/Character Building/Class Features/zz_asset-files/icons-weapons-fist-fist-katar-triple-gold-black.webp",
+    "Character building stuff/Character Building/Equipment/zz_asset-files/icons-weapons-fist-fist-katar-triple-engraved.webp",
+    "Character building stuff/Character Building/Equipment/zz_asset-files/icons-weapons-fist-fist-katar-gold.webp",
+    "Character building stuff/Character Building/Equipment/zz_asset-files/icons-weapons-fist-claw-grey-black.webp",
+    "Character building stuff/Character Building/Equipment/zz_asset-files/icons-skills-melee-unarmed-punch-fist-yellow-red.webp",
+    "Character building stuff/Character Building/Spells/zz_asset-files/icons-skills-melee-unarmed-punch-fist-blue.webp",
+    "Character building stuff/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-monkeys-fist.webp"
   ]
 }

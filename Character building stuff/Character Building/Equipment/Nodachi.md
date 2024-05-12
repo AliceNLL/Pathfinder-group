@@ -1,10 +1,13 @@
 ---
-title: "Nodachi"
-noteType: ":luggage:"
-aliases: "Nodachi"
+title: Nodachi
+noteType: weapons
+aliases:
+  - Nodachi
 foundryId: Item.3QGL12T0gUCJUIoX
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Nodachi

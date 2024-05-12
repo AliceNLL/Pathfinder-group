@@ -1,10 +1,12 @@
 ---
-title: "Glaive"
-noteType: ":luggage:"
-aliases: "Glaive"
-foundryId: Item.ILbIunH7yOM6j40w
+title: Glaive
+noteType: weapons
+aliases:
+  - Glaive
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Glaive

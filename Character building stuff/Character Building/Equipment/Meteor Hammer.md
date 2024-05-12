@@ -1,10 +1,13 @@
 ---
-title: "Meteor Hammer"
-noteType: ":luggage:"
-aliases: "Meteor Hammer"
+title: Meteor Hammer
+noteType: weapons
+aliases:
+  - Meteor Hammer
 foundryId: Item.8kNrJciP3OaDcAsv
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Meteor Hammer

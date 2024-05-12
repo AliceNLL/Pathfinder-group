@@ -1,10 +1,13 @@
 ---
-title: "Longbow"
-noteType: ":luggage:"
-aliases: "Longbow"
+title: Longbow
+noteType: weapons
+aliases:
+  - Longbow
 foundryId: Item.4svMHxrln3UBrV05
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Longbow

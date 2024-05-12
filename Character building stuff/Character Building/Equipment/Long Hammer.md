@@ -1,10 +1,13 @@
 ---
-title: "Long Hammer"
-noteType: ":luggage:"
-aliases: "Long Hammer"
+title: Long Hammer
+noteType: weapons
+aliases:
+  - Long Hammer
 foundryId: Item.TdXODxxlQamAJ1FZ
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Long Hammer

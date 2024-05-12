@@ -1,10 +1,13 @@
 ---
-title: "Forked Bipod"
-noteType: ":luggage:"
-aliases: "Forked Bipod"
+title: Forked Bipod
+noteType: weapons
+aliases:
+  - Forked Bipod
 foundryId: Item.SnUoqZJLXQcR4Ecq
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Forked Bipod

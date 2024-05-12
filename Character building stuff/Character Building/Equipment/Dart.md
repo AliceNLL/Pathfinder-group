@@ -1,10 +1,13 @@
 ---
-title: "Dart"
-noteType: ":luggage:"
-aliases: "Dart"
+title: Dart
+noteType: weapons
+aliases:
+  - Dart
 foundryId: Item.sygdTmpXI0hcXxbL
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Dart

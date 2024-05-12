@@ -1,10 +1,13 @@
 ---
-title: "Phalanx Piercer"
-noteType: ":luggage:"
-aliases: "Phalanx Piercer"
+title: Phalanx Piercer
+noteType: weapons
+aliases:
+  - Phalanx Piercer
 foundryId: Item.xBT6mSoStgsbPFeu
 tags:
   - Item
+  - Common
+Level: 1
 ---
 
 # Phalanx Piercer

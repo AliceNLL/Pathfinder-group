@@ -1,10 +1,13 @@
 ---
-title: "Lance"
-noteType: ":luggage:"
-aliases: "Lance"
+title: Lance
+noteType: weapons
+aliases:
+  - Lance
 foundryId: Item.EESLc61trAajRfky
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Lance

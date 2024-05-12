@@ -1,10 +1,13 @@
 ---
-title: "Longspear"
-noteType: ":luggage:"
-aliases: "Longspear"
+title: Longspear
+noteType: weapons
+aliases:
+  - Longspear
 foundryId: Item.ovmFdzf83QX7QJE6
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Longspear

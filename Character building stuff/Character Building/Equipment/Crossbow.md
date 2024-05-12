@@ -1,10 +1,13 @@
 ---
-title: "Crossbow"
-noteType: ":luggage:"
-aliases: "Crossbow"
+title: Crossbow
+noteType: weapons
+aliases:
+  - Crossbow
 foundryId: Item.08a0a5h8OUvZBWbn
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Crossbow

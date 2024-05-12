@@ -1,10 +1,12 @@
 ---
-title: "Exquisite Sword Cane"
-noteType: ":luggage:"
-aliases: "Exquisite Sword Cane"
-foundryId: Item.rs5lfImUn44H0hfS
+title: Exquisite Sword Cane
+noteType: weapons
+aliases:
+  - Exquisite Sword Cane
 tags:
   - Item
+  - Common
+Level: 4
 ---
 
 # Exquisite Sword Cane

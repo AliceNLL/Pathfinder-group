@@ -1,10 +1,13 @@
 ---
-title: "Monkey's Fist"
-noteType: ":luggage:"
-aliases: "Monkey's Fist"
+title: Monkey's Fist
+noteType: weapons
+aliases:
+  - Monkey's Fist
 foundryId: Item.4i4soTYXW78oqy2w
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Monkey's Fist

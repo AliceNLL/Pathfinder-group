@@ -1,10 +1,13 @@
 ---
-title: "Machete"
-noteType: ":luggage:"
-aliases: "Machete"
+title: Machete
+noteType: weapons
+aliases:
+  - Machete
 foundryId: Item.AhSISjVbWaR8keO6
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Machete

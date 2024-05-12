@@ -1,10 +1,13 @@
 ---
-title: "Flyssa"
-noteType: ":luggage:"
-aliases: "Flyssa"
+title: Flyssa
+noteType: weapons
+aliases:
+  - Flyssa
 foundryId: Item.QzDvpZ4UaLppKp3a
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Flyssa

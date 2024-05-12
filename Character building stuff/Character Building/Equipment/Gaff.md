@@ -1,10 +1,13 @@
 ---
-title: "Gaff"
-noteType: ":luggage:"
-aliases: "Gaff"
+title: Gaff
+noteType: weapons
+aliases:
+  - Gaff
 foundryId: Item.6DQAL8HiUkA44Jcb
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Gaff

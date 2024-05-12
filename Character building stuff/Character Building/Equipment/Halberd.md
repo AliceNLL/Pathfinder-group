@@ -1,10 +1,13 @@
 ---
-title: "Halberd"
-noteType: ":luggage:"
-aliases: "Halberd"
+title: Halberd
+noteType: weapons
+aliases:
+  - Halberd
 foundryId: Item.Jzyp5WU0lY4uUTvp
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Halberd

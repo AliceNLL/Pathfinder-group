@@ -1,10 +1,13 @@
 ---
-title: "Harpoon"
-noteType: ":luggage:"
-aliases: "Harpoon"
+title: Harpoon
+noteType: weapons
+aliases:
+  - Harpoon
 foundryId: Item.FNgxETgH8zD8YG2E
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Harpoon

@@ -1,10 +1,13 @@
 ---
-title: "Gauntlet Bow"
-noteType: ":luggage:"
-aliases: "Gauntlet Bow"
+title: Gauntlet Bow
+noteType: weapons
+aliases:
+  - Gauntlet Bow
 foundryId: Item.efQVoWw7R9wybDjc
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Gauntlet Bow

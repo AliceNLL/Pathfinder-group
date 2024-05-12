@@ -1,10 +1,13 @@
 ---
-title: "Flail"
-noteType: ":luggage:"
-aliases: "Flail"
+title: Flail
+noteType: weapons
+aliases:
+  - Flail
 foundryId: Item.W6Wqxedw7QcVOw0s
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Flail

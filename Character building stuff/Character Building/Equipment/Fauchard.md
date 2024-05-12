@@ -1,10 +1,13 @@
 ---
-title: "Fauchard"
-noteType: ":luggage:"
-aliases: "Fauchard"
+title: Fauchard
+noteType: weapons
+aliases:
+  - Fauchard
 foundryId: Item.uUxAuytlRuBlLo3J
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Fauchard

@@ -1,10 +1,13 @@
 ---
-title: "Razor Disc"
-noteType: ":luggage:"
-aliases: "Razor Disc"
+title: Razor Disc
+noteType: weapons
+aliases:
+  - Razor Disc
 foundryId: Item.sF9TvtxGFO4Q6YFr
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Razor Disc

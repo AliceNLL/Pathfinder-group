@@ -1,10 +1,13 @@
 ---
-title: "Mikazuki"
-noteType: ":luggage:"
-aliases: "Mikazuki"
+title: Mikazuki
+noteType: weapons
+aliases:
+  - Mikazuki
 foundryId: Item.LNeuJNOnbeOHZOfC
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Mikazuki

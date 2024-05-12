@@ -1,10 +1,13 @@
 ---
-title: "Light Mace"
-noteType: ":luggage:"
-aliases: "Light Mace"
+title: Light Mace
+noteType: weapons
+aliases:
+  - Light Mace
 foundryId: Item.kIuu4mOEeOCfyIuz
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Light Mace

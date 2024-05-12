@@ -1,10 +1,13 @@
 ---
-title: "Probing Cane"
-noteType: ":luggage:"
-aliases: "Probing Cane"
+title: Probing Cane
+noteType: weapons
+aliases:
+  - Probing Cane
 foundryId: Item.3cozmprwpUkSGVUr
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Probing Cane

@@ -1,10 +1,13 @@
 ---
-title: "Greatsword"
-noteType: ":luggage:"
-aliases: "Greatsword"
+title: Greatsword
+noteType: weapons
+aliases:
+  - Greatsword
 foundryId: Item.rskuU8Ll9cVEqRBl
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Greatsword

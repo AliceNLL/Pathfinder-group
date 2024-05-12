@@ -1,10 +1,13 @@
 ---
-title: "Pick"
-noteType: ":luggage:"
-aliases: "Pick"
+title: Pick
+noteType: weapons
+aliases:
+  - Pick
 foundryId: Item.fKcurWIfri9hVgkZ
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Pick

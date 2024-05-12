@@ -1,10 +1,13 @@
 ---
-title: "Frying Pan"
-noteType: ":luggage:"
-aliases: "Frying Pan"
+title: Frying Pan
+noteType: weapons
+aliases:
+  - Frying Pan
 foundryId: Item.K7WmDzRjm0PTi00g
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Frying Pan

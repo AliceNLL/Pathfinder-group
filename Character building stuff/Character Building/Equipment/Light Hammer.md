@@ -1,10 +1,13 @@
 ---
-title: "Light Hammer"
-noteType: ":luggage:"
-aliases: "Light Hammer"
+title: Light Hammer
+noteType: weapons
+aliases:
+  - Light Hammer
 foundryId: Item.iZz1Z41q4cZCVkUw
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Light Hammer

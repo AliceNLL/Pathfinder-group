@@ -1,10 +1,13 @@
 ---
-title: "Earthbreaker"
-noteType: ":luggage:"
-aliases: "Earthbreaker"
+title: Earthbreaker
+noteType: weapons
+aliases:
+  - Earthbreaker
 foundryId: Item.DnAeRrbGORi8eb0Z
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Earthbreaker

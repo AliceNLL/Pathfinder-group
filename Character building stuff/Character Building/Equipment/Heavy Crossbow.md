@@ -1,10 +1,13 @@
 ---
-title: "Heavy Crossbow"
-noteType: ":luggage:"
-aliases: "Heavy Crossbow"
+title: Heavy Crossbow
+noteType: weapons
+aliases:
+  - Heavy Crossbow
 foundryId: Item.9PyZ2Gpn5qYOFaOd
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Heavy Crossbow

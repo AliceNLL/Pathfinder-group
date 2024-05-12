@@ -1,10 +1,13 @@
 ---
-title: "Morningstar"
-noteType: ":luggage:"
-aliases: "Morningstar"
+title: Morningstar
+noteType: weapons
+aliases:
+  - Morningstar
 foundryId: Item.5QVq9w3F9qXzDi5W
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Morningstar

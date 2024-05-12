@@ -1,10 +1,13 @@
 ---
-title: "Griffon Cane"
-noteType: ":luggage:"
-aliases: "Griffon Cane"
+title: Griffon Cane
+noteType: weapons
+aliases:
+  - Griffon Cane
 foundryId: Item.coXgvgV5w5GmLxRJ
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Griffon Cane

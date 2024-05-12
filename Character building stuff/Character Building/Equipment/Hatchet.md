@@ -1,10 +1,13 @@
 ---
-title: "Hatchet"
-noteType: ":luggage:"
-aliases: "Hatchet"
+title: Hatchet
+noteType: weapons
+aliases:
+  - Hatchet
 foundryId: Item.7nKZQ1qM6Wzxaf3v
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Hatchet

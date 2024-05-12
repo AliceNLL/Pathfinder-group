@@ -1,10 +1,13 @@
 ---
-title: "Greatpick"
-noteType: ":luggage:"
-aliases: "Greatpick"
+title: Greatpick
+noteType: weapons
+aliases:
+  - Greatpick
 foundryId: Item.082xlKiyknTuIBcF
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Greatpick

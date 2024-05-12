@@ -1,10 +1,13 @@
 ---
-title: "Gakgung"
-noteType: ":luggage:"
-aliases: "Gakgung"
+title: Gakgung
+noteType: weapons
+aliases:
+  - Gakgung
 foundryId: Item.O8guXdXbJzoVNSvP
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Gakgung

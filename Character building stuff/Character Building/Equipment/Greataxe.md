@@ -1,10 +1,13 @@
 ---
-title: "Greataxe"
-noteType: ":luggage:"
-aliases: "Greataxe"
+title: Greataxe
+noteType: weapons
+aliases:
+  - Greataxe
 foundryId: Item.PiWWozcdHrnr8x7n
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Greataxe

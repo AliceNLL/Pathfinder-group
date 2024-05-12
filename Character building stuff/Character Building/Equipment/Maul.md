@@ -1,10 +1,13 @@
 ---
-title: "Maul"
-noteType: ":luggage:"
-aliases: "Maul"
+title: Maul
+noteType: weapons
+aliases:
+  - Maul
 foundryId: Item.an1iwjIf52QArEpz
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Maul

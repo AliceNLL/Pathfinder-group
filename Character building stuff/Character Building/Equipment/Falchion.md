@@ -1,10 +1,13 @@
 ---
-title: "Falchion"
-noteType: ":luggage:"
-aliases: "Falchion"
+title: Falchion
+noteType: weapons
+aliases:
+  - Falchion
 foundryId: Item.Ev4U73mQH3FVaghy
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Falchion

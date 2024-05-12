@@ -1,10 +1,13 @@
 ---
-title: "Greatclub"
-noteType: ":luggage:"
-aliases: "Greatclub"
+title: Greatclub
+noteType: weapons
+aliases:
+  - Greatclub
 foundryId: Item.zXx54SOETfImxQgU
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Greatclub

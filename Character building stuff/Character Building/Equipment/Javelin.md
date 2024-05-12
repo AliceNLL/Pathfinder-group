@@ -1,10 +1,13 @@
 ---
-title: "Javelin"
-noteType: ":luggage:"
-aliases: "Javelin"
+title: Javelin
+noteType: weapons
+aliases:
+  - Javelin
 foundryId: Item.TvYCS0VZk7E8YtfU
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Javelin

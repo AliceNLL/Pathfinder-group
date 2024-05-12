@@ -1,10 +1,13 @@
 ---
-title: "Light Pick"
-noteType: ":luggage:"
-aliases: "Light Pick"
+title: Light Pick
+noteType: weapons
+aliases:
+  - Light Pick
 foundryId: Item.YL58j0yJNwtj63Z7
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Light Pick

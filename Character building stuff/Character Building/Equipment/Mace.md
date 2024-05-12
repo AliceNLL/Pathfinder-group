@@ -1,10 +1,13 @@
 ---
-title: "Mace"
-noteType: ":luggage:"
-aliases: "Mace"
+title: Mace
+noteType: weapons
+aliases:
+  - Mace
 foundryId: Item.srwKu1DLvfMM6Xbg
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Mace

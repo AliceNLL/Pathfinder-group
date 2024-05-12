@@ -1,10 +1,13 @@
 ---
-title: "Hand Adze"
-noteType: ":luggage:"
-aliases: "Hand Adze"
+title: Hand Adze
+noteType: weapons
+aliases:
+  - Hand Adze
 foundryId: Item.hXRwyJ5bw8F5juk9
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Hand Adze

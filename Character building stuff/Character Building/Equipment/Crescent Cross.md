@@ -1,10 +1,13 @@
 ---
-title: "Crescent Cross"
-noteType: ":luggage:"
-aliases: "Crescent Cross"
+title: Crescent Cross
+noteType: weapons
+aliases:
+  - Crescent Cross
 foundryId: Item.guIR8MoMQADED7qq
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Crescent Cross

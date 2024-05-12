@@ -1,10 +1,13 @@
 ---
-title: "Rapier"
-noteType: ":luggage:"
-aliases: "Rapier"
+title: Rapier
+noteType: weapons
+aliases:
+  - Rapier
 foundryId: Item.9XvspvV0oNk6z97j
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Rapier

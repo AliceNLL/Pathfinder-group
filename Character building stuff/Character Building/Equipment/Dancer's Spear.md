@@ -1,10 +1,13 @@
 ---
-title: "Dancer's Spear"
-noteType: ":luggage:"
-aliases: "Dancer's Spear"
+title: Dancer's Spear
+noteType: weapons
+aliases:
+  - Dancer's Spear
 foundryId: Item.hGFco3vL0H6Ddvv8
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Dancer's Spear

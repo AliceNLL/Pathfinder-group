@@ -1,10 +1,13 @@
 ---
-title: "Falcata"
-noteType: ":luggage:"
-aliases: "Falcata"
+title: Falcata
+noteType: weapons
+aliases:
+  - Falcata
 foundryId: Item.gPRO1LUTHr26dQUM
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Falcata

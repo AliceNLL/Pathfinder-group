@@ -1,10 +1,13 @@
 ---
-title: "Exquisite Sword Cane Sheath"
-noteType: ":luggage:"
-aliases: "Exquisite Sword Cane Sheath"
+title: Exquisite Sword Cane Sheath
+noteType: weapons
+aliases:
+  - Exquisite Sword Cane Sheath
 foundryId: Item.crGMxoTANKSAb9G4
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Exquisite Sword Cane Sheath

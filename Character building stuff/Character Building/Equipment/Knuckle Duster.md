@@ -1,10 +1,13 @@
 ---
-title: "Knuckle Duster"
-noteType: ":luggage:"
-aliases: "Knuckle Duster"
+title: Knuckle Duster
+noteType: weapons
+aliases:
+  - Knuckle Duster
 foundryId: Item.BqU9dLoDy70z4I0Z
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Knuckle Duster

@@ -1,10 +1,13 @@
 ---
-title: "Ranseur"
-noteType: ":luggage:"
-aliases: "Ranseur"
+title: Ranseur
+noteType: weapons
+aliases:
+  - Ranseur
 foundryId: Item.TzDremfVVqkaHlpi
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Ranseur

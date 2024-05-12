@@ -1,10 +1,13 @@
 ---
-title: "Main-Gauche"
-noteType: ":luggage:"
-aliases: "Main-Gauche"
+title: Main-Gauche
+noteType: weapons
+aliases:
+  - Main-Gauche
 foundryId: Item.DlNRCX07IlzG2oGY
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Main-Gauche
