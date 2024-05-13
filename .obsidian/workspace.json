@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "8454d2c7414a2adf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9373bcb16ae21b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character building stuff/Character Building/Equipment/Gill Hook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4dabd3a74072da59",
         "type": "tabs",
         "children": [
@@ -83,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Gill Hook.md",
+                "file": "Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Gill Hook.md",
+                "file": "Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Gill Hook.md"
+                "file": "Weapons.md"
               }
             }
           }
@@ -167,10 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9373bcb16ae21b45",
+  "active": "158dceb2fac6488f",
   "lastOpenFiles": [
-    "Character building stuff/Character Building/Equipment/Gada.md",
+    "README.md",
+    "Characters/Amanita.md",
     "Weapons.md",
+    "Character Sheet.md",
+    "Character building stuff/Character Building/Equipment/Gill Hook.md",
+    "Character building stuff/Character Building/Equipment/Gada.md",
     "Character building stuff/Character Building/Equipment/Flying Talon.md",
     "Character building stuff/Character Building/Equipment/Flintlock Pistol.md",
     "Character building stuff/Character Building/Equipment/Flintlock Musket.md",
@@ -191,10 +176,6 @@
     "Character building stuff/Character Building/Equipment/Dwarven Dorn-Dergar.md",
     "Character building stuff/Character Building/Equipment/Aldori Dueling Sword.md",
     "Character building stuff/Character Building/Feats/Performative Weapons Training.md",
-    "Character building stuff/Character Building/Equipment/Dueling Spear.md",
-    "Character building stuff/Character Building/Equipment/Dueling Pistol.md",
-    "Character building stuff/Character Building/Equipment/Coldstar Pistols.md",
-    "Character building stuff/Character Building/Equipment/Dragon Mouth Pistol.md",
     "netlify.toml",
     "New Text Document.txt",
     "Character building stuff/Character Building/Class Features/zz_asset-files/icons-weapons-fist-fist-katar-triple-gold-black.webp",
