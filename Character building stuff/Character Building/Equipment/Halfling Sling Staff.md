@@ -1,10 +1,13 @@
 ---
-title: "Halfling Sling Staff"
-noteType: ":luggage:"
-aliases: "Halfling Sling Staff"
+title: Halfling Sling Staff
+noteType: weapons
+aliases:
+  - Halfling Sling Staff
 foundryId: Item.9aiiSPAVU9iDC5F1
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Halfling Sling Staff

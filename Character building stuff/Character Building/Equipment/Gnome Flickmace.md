@@ -1,10 +1,13 @@
 ---
-title: "Gnome Flickmace"
-noteType: ":luggage:"
-aliases: "Gnome Flickmace"
+title: Gnome Flickmace
+noteType: weapons
+aliases:
+  - Gnome Flickmace
 foundryId: Item.VViS79iFOODSbORS
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Gnome Flickmace

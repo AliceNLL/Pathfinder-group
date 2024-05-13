@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "154c070c89907d17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68d0df2edad48242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character building stuff/Character Building/Equipment/Harmona Gun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "4dabd3a74072da59",
         "type": "tabs",
         "children": [
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gill Hook",
+                "query": "Harmona Gun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons.md",
+                "file": "Character building stuff/Character Building/Equipment/Harmona Gun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons.md",
+                "file": "Character building stuff/Character Building/Equipment/Harmona Gun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons.md"
+                "file": "Character building stuff/Character Building/Equipment/Harmona Gun.md"
               }
             }
           }
@@ -148,11 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "158dceb2fac6488f",
+  "active": "68d0df2edad48242",
   "lastOpenFiles": [
+    "Character building stuff/Character Building/Equipment/Hand Cannon.md",
+    "Character building stuff/Character Building/Equipment/Gray Prince.md",
+    "Character building stuff/Character Building/Feats/Core Cannon.md",
+    "Character building stuff/Character Building/Class Features/Construct Innovation.md",
+    "Character building stuff/Character Building/Equipment/Hammer Gun.md",
+    "Character building stuff/Character Building/Equipment/Halfling Sling Staff.md",
+    "Character building stuff/Character Building/Equipment/Gun Sword.md",
+    "Weapons.md",
+    "Character building stuff/Character Building/Equipment/Gnome Hooked Hammer.md",
+    "Character building stuff/Character Building/Equipment/Gnome Flickmace.md",
+    "Character building stuff/Character Building/Equipment/Gnome Amalgam Musket.md",
     "README.md",
     "Characters/Amanita.md",
-    "Weapons.md",
     "Character Sheet.md",
     "Character building stuff/Character Building/Equipment/Gill Hook.md",
     "Character building stuff/Character Building/Equipment/Gada.md",
@@ -166,16 +195,6 @@
     "Character building stuff/Character Building/Equipment/Filcher's Fork.md",
     "Character building stuff/Character Building/Equipment/Fighting Stick.md",
     "Character building stuff/Character Building/Equipment/Fighting Fan.md",
-    "Character building stuff/Character Building/Equipment/Feng Huo Lun.md",
-    "Character building stuff/Character Building/Equipment/Fangwire.md",
-    "Character building stuff/Character Building/Equipment/Explosive Dogslicer.md",
-    "Character building stuff/Character Building/Equipment/Elven Curve Blade.md",
-    "Character building stuff/Character Building/Equipment/Elven Branched Spear.md",
-    "Character building stuff/Character Building/Equipment/Dwarven War Axe.md",
-    "Character building stuff/Character Building/Equipment/Dwarven Scattergun.md",
-    "Character building stuff/Character Building/Equipment/Dwarven Dorn-Dergar.md",
-    "Character building stuff/Character Building/Equipment/Aldori Dueling Sword.md",
-    "Character building stuff/Character Building/Feats/Performative Weapons Training.md",
     "netlify.toml",
     "New Text Document.txt",
     "Character building stuff/Character Building/Class Features/zz_asset-files/icons-weapons-fist-fist-katar-triple-gold-black.webp",

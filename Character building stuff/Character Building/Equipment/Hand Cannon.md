@@ -1,10 +1,13 @@
 ---
-title: "Hand Cannon"
-noteType: ":luggage:"
-aliases: "Hand Cannon"
+title: Hand Cannon
+noteType: weapons
+aliases:
+  - Hand Cannon
 foundryId: Item.Fe9H0UJzuehyDQsv
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Hand Cannon

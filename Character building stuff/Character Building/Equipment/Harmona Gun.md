@@ -1,10 +1,13 @@
 ---
-title: "Harmona Gun"
-noteType: ":luggage:"
-aliases: "Harmona Gun"
+title: Harmona Gun
+noteType: weapons
+aliases:
+  - Harmona Gun
 foundryId: Item.METgr6r3Xw3Z30eH
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Harmona Gun

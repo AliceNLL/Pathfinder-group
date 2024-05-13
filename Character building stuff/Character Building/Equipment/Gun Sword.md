@@ -1,10 +1,13 @@
 ---
-title: "Gun Sword"
-noteType: ":luggage:"
-aliases: "Gun Sword"
+title: Gun Sword
+noteType: weapons
+aliases:
+  - Gun Sword
 foundryId: Item.q2N7PKBvUSwlt21N
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Gun Sword

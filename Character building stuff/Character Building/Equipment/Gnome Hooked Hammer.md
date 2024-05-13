@@ -1,10 +1,13 @@
 ---
-title: "Gnome Hooked Hammer"
-noteType: ":luggage:"
-aliases: "Gnome Hooked Hammer"
+title: Gnome Hooked Hammer
+noteType: weapons
+aliases:
+  - Gnome Hooked Hammer
 foundryId: Item.FKFxPPr1qrCWqmrK
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Gnome Hooked Hammer

@@ -1,10 +1,13 @@
 ---
-title: "Hammer Gun"
-noteType: ":luggage:"
-aliases: "Hammer Gun"
+title: Hammer Gun
+noteType: weapons
+aliases:
+  - Hammer Gun
 foundryId: Item.UPRnnmtBfagez1aQ
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Hammer Gun

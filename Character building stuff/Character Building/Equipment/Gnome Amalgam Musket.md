@@ -1,10 +1,13 @@
 ---
-title: "Gnome Amalgam Musket"
-noteType: ":luggage:"
-aliases: "Gnome Amalgam Musket"
+title: Gnome Amalgam Musket
+noteType: weapons
+aliases:
+  - Gnome Amalgam Musket
 foundryId: Item.7OuQLJbfMJNWd44S
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Gnome Amalgam Musket
