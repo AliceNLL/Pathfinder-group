@@ -1,10 +1,13 @@
 ---
-title: "Mithral Tree"
-noteType: ":luggage:"
-aliases: "Mithral Tree"
+title: Mithral Tree
+noteType: weapons
+aliases:
+  - Mithral Tree
 foundryId: Item.FPratKEZLsZTv8ec
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Mithral Tree

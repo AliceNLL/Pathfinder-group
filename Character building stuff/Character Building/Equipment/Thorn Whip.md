@@ -1,10 +1,13 @@
 ---
-title: "Thorn Whip"
-noteType: ":luggage:"
-aliases: "Thorn Whip"
+title: Thorn Whip
+noteType: weapons
+aliases:
+  - Thorn Whip
 foundryId: Item.WaZBOiuKdaiMYj0o
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Thorn Whip

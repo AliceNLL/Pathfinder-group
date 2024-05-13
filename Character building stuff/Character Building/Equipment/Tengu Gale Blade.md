@@ -1,10 +1,13 @@
 ---
-title: "Tengu Gale Blade"
-noteType: ":luggage:"
-aliases: "Tengu Gale Blade"
+title: Tengu Gale Blade
+noteType: weapons
+aliases:
+  - Tengu Gale Blade
 foundryId: Item.PUAMxRnwefbdrMqY
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Tengu Gale Blade

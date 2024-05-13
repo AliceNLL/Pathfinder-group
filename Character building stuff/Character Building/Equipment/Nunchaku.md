@@ -1,10 +1,13 @@
 ---
-title: "Nunchaku"
-noteType: ":luggage:"
-aliases: "Nunchaku"
+title: Nunchaku
+noteType: weapons
+aliases:
+  - Nunchaku
 foundryId: Item.MoaEkJGfBF7tllpy
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Nunchaku

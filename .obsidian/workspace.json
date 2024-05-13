@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "154c070c89907d17",
+        "id": "8c158060cf8a26b8",
         "type": "tabs",
         "children": [
           {
-            "id": "68d0df2edad48242",
+            "id": "75e7064e75657d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Hook Sword.md",
+                "file": "Character building stuff/Character Building/Equipment/Zulfikar.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Hook Sword ",
+                "query": "Zulfikar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Hook Sword.md",
+                "file": "Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Hook Sword.md",
+                "file": "Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Hook Sword.md"
+                "file": "Weapons.md"
               }
             }
           }
@@ -167,34 +167,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68d0df2edad48242",
+  "active": "158dceb2fac6488f",
   "lastOpenFiles": [
-    "Character building stuff/Character Building/Equipment/Exquisite Sword Cane.md",
-    "Character building stuff/Character Building/Equipment/Class Kit (Barbarian).md",
-    "Character building stuff/Character Building/Equipment/Harmona Gun.md",
-    "Character building stuff/Character Building/Equipment/Hand Cannon.md",
-    "Character building stuff/Character Building/Equipment/Gray Prince.md",
-    "Character building stuff/Character Building/Feats/Core Cannon.md",
-    "Character building stuff/Character Building/Class Features/Construct Innovation.md",
-    "Character building stuff/Character Building/Equipment/Hammer Gun.md",
-    "Character building stuff/Character Building/Equipment/Halfling Sling Staff.md",
-    "Character building stuff/Character Building/Equipment/Gun Sword.md",
-    "Weapons.md",
-    "Character building stuff/Character Building/Equipment/Gnome Hooked Hammer.md",
-    "Character building stuff/Character Building/Equipment/Gnome Flickmace.md",
-    "Character building stuff/Character Building/Equipment/Gnome Amalgam Musket.md",
-    "README.md",
-    "Characters/Amanita.md",
-    "Character Sheet.md",
-    "Character building stuff/Character Building/Equipment/Gill Hook.md",
-    "Character building stuff/Character Building/Equipment/Gada.md",
-    "Character building stuff/Character Building/Equipment/Flying Talon.md",
-    "Character building stuff/Character Building/Equipment/Flintlock Pistol.md",
-    "Character building stuff/Character Building/Equipment/Flintlock Musket.md",
-    "Character building stuff/Character Building/Equipment/Flingflenser.md",
-    "Character building stuff/Character Building/Equipment/Fire Poi.md",
-    "Character building stuff/Character Building/Feats/All Shall End In Flames.md",
-    "Character building stuff/Character Building/Equipment/Fire Lance.md",
+    "Character building stuff/Character Building/Equipment/Zulfikar.md",
+    "Character building stuff/Character Building/Equipment/Wish Knife.md",
+    "Character building stuff/Character Building/Equipment/Wish Blade.md",
+    "Character building stuff/Character Building/Equipment/Feng Huo Lun.md",
+    "Character building stuff/Character Building/Equipment/Whipstaff.md",
+    "Character building stuff/Character Building/Equipment/Whip Claw.md",
+    "Character building stuff/Character Building/Equipment/War Lance.md",
+    "Character building stuff/Character Building/Equipment/Wakizashi.md",
+    "Character building stuff/Character Building/Equipment/Visap.md",
+    "Character building stuff/Character Building/Equipment/Urumi.md",
+    "Character building stuff/Character Building/Equipment/Umbrella Injector.md",
+    "Character building stuff/Character Building/Equipment/Triggerbrand.md",
+    "Character building stuff/Character Building/Equipment/Tricky Pick.md",
+    "Character building stuff/Character Building/Equipment/Tri-bladed Katar.md",
+    "Character building stuff/Character Building/Equipment/Tonfa.md",
+    "Character building stuff/Character Building/Equipment/Thundermace.md",
+    "Character building stuff/Character Building/Equipment/Thunder Sling.md",
+    "Character building stuff/Character Building/Equipment/Three Peaked Tree.md",
+    "Character building stuff/Character Building/Equipment/Three-Section Naginata.md",
+    "Character building stuff/Character Building/Equipment/Thorn Whip.md",
+    "Character building stuff/Character Building/Equipment/Tengu Gale Blade.md",
+    "Character building stuff/Character Building/Equipment/Temple Sword.md",
+    "Character building stuff/Character Building/Equipment/Tekko-Kagi.md",
+    "Character building stuff/Character Building/Equipment/Taw Launcher.md",
+    "Character building stuff/Character Building/Equipment/Tamchal Chakram.md",
+    "Character building stuff/Character Building/Equipment/Talwar.md",
     "netlify.toml",
     "New Text Document.txt",
     "Character building stuff/Character Building/Class Features/zz_asset-files/icons-weapons-fist-fist-katar-triple-gold-black.webp",

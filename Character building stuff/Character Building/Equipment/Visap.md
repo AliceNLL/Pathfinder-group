@@ -1,10 +1,13 @@
 ---
-title: "Visap"
-noteType: ":luggage:"
-aliases: "Visap"
+title: Visap
+noteType: weapons
+aliases:
+  - Visap
 foundryId: Item.2kbsrshOQ65O0DeB
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Visap

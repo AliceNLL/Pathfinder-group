@@ -1,10 +1,13 @@
 ---
-title: "Khopesh"
-noteType: ":luggage:"
-aliases: "Khopesh"
+title: Khopesh
+noteType: weapons
+aliases:
+  - Khopesh
 foundryId: Item.d8OT2sk90jRrNrhV
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Khopesh

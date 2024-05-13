@@ -1,10 +1,13 @@
 ---
-title: "Sansetsukon"
-noteType: ":luggage:"
-aliases: "Sansetsukon"
+title: Sansetsukon
+noteType: weapons
+aliases:
+  - Sansetsukon
 foundryId: Item.SEaBYeNAm6dPXEbs
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Sansetsukon

@@ -1,10 +1,13 @@
 ---
-title: "Three-Section Naginata"
-noteType: ":luggage:"
-aliases: "Three-Section Naginata"
+title: Three-Section Naginata
+noteType: weapons
+aliases:
+  - Three-Section Naginata
 foundryId: Item.vg4qJJSzZndd7Vtk
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Three-Section Naginata

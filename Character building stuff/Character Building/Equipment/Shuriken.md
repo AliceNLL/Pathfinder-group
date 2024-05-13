@@ -1,10 +1,13 @@
 ---
-title: "Shuriken"
-noteType: ":luggage:"
-aliases: "Shuriken"
+title: Shuriken
+noteType: weapons
+aliases:
+  - Shuriken
 foundryId: Item.sKqPzJ3djr0V0ZJZ
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Shuriken

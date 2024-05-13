@@ -1,10 +1,13 @@
 ---
-title: "Shauth Blade"
-noteType: ":luggage:"
-aliases: "Shauth Blade"
+title: Shauth Blade
+noteType: weapons
+aliases:
+  - Shauth Blade
 foundryId: Item.50Yps1IujJCyDlG7
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Shauth Blade

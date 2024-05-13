@@ -1,10 +1,13 @@
 ---
-title: "Kukri"
-noteType: ":luggage:"
-aliases: "Kukri"
+title: Kukri
+noteType: weapons
+aliases:
+  - Kukri
 foundryId: Item.tL1ExrsKdS2kWu0L
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Kukri

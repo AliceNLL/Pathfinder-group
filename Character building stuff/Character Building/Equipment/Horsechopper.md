@@ -1,10 +1,13 @@
 ---
-title: "Horsechopper"
-noteType: ":luggage:"
-aliases: "Horsechopper"
+title: Horsechopper
+noteType: weapons
+aliases:
+  - Horsechopper
 foundryId: Item.j7MbbQ7yv2h148e9
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Horsechopper

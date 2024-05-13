@@ -1,10 +1,13 @@
 ---
-title: "Jiu Huan Dao"
-noteType: ":luggage:"
-aliases: "Jiu Huan Dao"
+title: Jiu Huan Dao
+noteType: weapons
+aliases:
+  - Jiu Huan Dao
 foundryId: Item.UCPvwrj2BlxilIvl
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Jiu Huan Dao

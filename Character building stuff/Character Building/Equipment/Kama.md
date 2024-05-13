@@ -1,10 +1,13 @@
 ---
-title: "Kama"
-noteType: ":luggage:"
-aliases: "Kama"
+title: Kama
+noteType: weapons
+aliases:
+  - Kama
 foundryId: Item.rIE8XbkJTsFTnYCn
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Kama

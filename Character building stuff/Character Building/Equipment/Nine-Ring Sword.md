@@ -1,10 +1,13 @@
 ---
-title: "Nine-Ring Sword"
-noteType: ":luggage:"
-aliases: "Nine-Ring Sword"
+title: Nine-Ring Sword
+noteType: weapons
+aliases:
+  - Nine-Ring Sword
 foundryId: Item.gZ2Wf9jsVPmuLKvj
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Nine-Ring Sword

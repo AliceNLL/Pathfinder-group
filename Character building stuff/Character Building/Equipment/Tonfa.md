@@ -1,10 +1,13 @@
 ---
-title: "Tonfa"
-noteType: ":luggage:"
-aliases: "Tonfa"
+title: Tonfa
+noteType: weapons
+aliases:
+  - Tonfa
 foundryId: Item.RVvzxcmqxUSXCDdu
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Tonfa

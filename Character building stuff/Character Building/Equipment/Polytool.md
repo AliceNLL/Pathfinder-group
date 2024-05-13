@@ -1,10 +1,13 @@
 ---
-title: "Polytool"
-noteType: ":luggage:"
-aliases: "Polytool"
+title: Polytool
+noteType: weapons
+aliases:
+  - Polytool
 foundryId: Item.tVDXdecBEuP3GG64
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Polytool

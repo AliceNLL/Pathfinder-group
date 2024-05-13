@@ -1,10 +1,13 @@
 ---
-title: "Katar"
-noteType: ":luggage:"
-aliases: "Katar"
+title: Katar
+noteType: weapons
+aliases:
+  - Katar
 foundryId: Item.kzVT61nkLyZS1BsG
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Katar

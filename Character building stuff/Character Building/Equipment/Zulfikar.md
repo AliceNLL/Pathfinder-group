@@ -1,10 +1,13 @@
 ---
-title: "Zulfikar"
-noteType: ":luggage:"
-aliases: "Zulfikar"
+title: Zulfikar
+noteType: weapons
+aliases:
+  - Zulfikar
 foundryId: Item.zxgaLiMztGcGFJlo
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Zulfikar

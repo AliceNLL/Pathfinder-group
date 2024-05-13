@@ -1,10 +1,13 @@
 ---
-title: "Shield Pistol"
-noteType: ":luggage:"
-aliases: "Shield Pistol"
+title: Shield Pistol
+noteType: weapons
+aliases:
+  - Shield Pistol
 foundryId: Item.Fb4TN0fWNRqTOEOF
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Shield Pistol

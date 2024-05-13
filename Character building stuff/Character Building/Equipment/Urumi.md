@@ -1,10 +1,13 @@
 ---
-title: "Urumi"
-noteType: ":luggage:"
-aliases: "Urumi"
+title: Urumi
+noteType: weapons
+aliases:
+  - Urumi
 foundryId: Item.S6UUDKt3yoKbEg1w
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Urumi

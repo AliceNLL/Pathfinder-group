@@ -1,10 +1,13 @@
 ---
-title: "Injection Spear"
-noteType: ":luggage:"
-aliases: "Injection Spear"
+title: Injection Spear
+noteType: weapons
+aliases:
+  - Injection Spear
 foundryId: Item.TgsxIW37n8REJE4O
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Injection Spear

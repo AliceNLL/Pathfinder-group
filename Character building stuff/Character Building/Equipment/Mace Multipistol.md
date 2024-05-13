@@ -1,10 +1,13 @@
 ---
-title: "Mace Multipistol"
-noteType: ":luggage:"
-aliases: "Mace Multipistol"
+title: Mace Multipistol
+noteType: weapons
+aliases:
+  - Mace Multipistol
 foundryId: Item.D3T4b7QvoIbmyFJy
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Mace Multipistol

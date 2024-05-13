@@ -1,10 +1,13 @@
 ---
-title: "Kalis"
-noteType: ":luggage:"
-aliases: "Kalis"
+title: Kalis
+noteType: weapons
+aliases:
+  - Kalis
 foundryId: Item.lM8AVLgbmLgvi5pi
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Kalis

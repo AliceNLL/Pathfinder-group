@@ -1,10 +1,13 @@
 ---
-title: "Talwar"
-noteType: ":luggage:"
-aliases: "Talwar"
+title: Talwar
+noteType: weapons
+aliases:
+  - Talwar
 foundryId: Item.kpdJrqblNvLMGeEA
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Talwar

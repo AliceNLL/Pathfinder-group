@@ -1,10 +1,13 @@
 ---
-title: "Slide Pistol"
-noteType: ":luggage:"
-aliases: "Slide Pistol"
+title: Slide Pistol
+noteType: weapons
+aliases:
+  - Slide Pistol
 foundryId: Item.9gCTgzBVLJaaveQX
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Slide Pistol

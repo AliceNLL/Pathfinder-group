@@ -1,10 +1,13 @@
 ---
-title: "Juggling Club"
-noteType: ":luggage:"
-aliases: "Juggling Club"
+title: Juggling Club
+noteType: weapons
+aliases:
+  - Juggling Club
 foundryId: Item.YgHnbXlVxr2a7Kzx
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Juggling Club

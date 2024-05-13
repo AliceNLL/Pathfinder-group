@@ -1,10 +1,13 @@
 ---
-title: "Pepperbox"
-noteType: ":luggage:"
-aliases: "Pepperbox"
+title: Pepperbox
+noteType: weapons
+aliases:
+  - Pepperbox
 foundryId: Item.kodGBixV6njju4CP
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Pepperbox

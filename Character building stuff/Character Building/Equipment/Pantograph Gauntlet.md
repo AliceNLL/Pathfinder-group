@@ -1,10 +1,13 @@
 ---
-title: "Pantograph Gauntlet"
-noteType: ":luggage:"
-aliases: "Pantograph Gauntlet"
+title: Pantograph Gauntlet
+noteType: weapons
+aliases:
+  - Pantograph Gauntlet
 foundryId: Item.QdX6OQpnXZRexnQ5
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Pantograph Gauntlet

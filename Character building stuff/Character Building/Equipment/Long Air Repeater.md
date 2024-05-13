@@ -1,10 +1,13 @@
 ---
-title: "Long Air Repeater"
-noteType: ":luggage:"
-aliases: "Long Air Repeater"
+title: Long Air Repeater
+noteType: weapons
+aliases:
+  - Long Air Repeater
 foundryId: Item.BB1jARfSVqXfQVnz
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Long Air Repeater

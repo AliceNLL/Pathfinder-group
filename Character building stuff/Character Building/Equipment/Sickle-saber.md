@@ -1,10 +1,13 @@
 ---
-title: "Sickle-saber"
-noteType: ":luggage:"
-aliases: "Sickle-saber"
+title: Sickle-saber
+noteType: weapons
+aliases:
+  - Sickle-saber
 foundryId: Item.wNaZ0tvK3pJQ3AZy
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Sickle-saber

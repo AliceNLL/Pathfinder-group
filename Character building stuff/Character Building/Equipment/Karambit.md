@@ -1,10 +1,13 @@
 ---
-title: "Karambit"
-noteType: ":luggage:"
-aliases: "Karambit"
+title: Karambit
+noteType: weapons
+aliases:
+  - Karambit
 foundryId: Item.IzYEmZdflxK1oHEZ
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Karambit

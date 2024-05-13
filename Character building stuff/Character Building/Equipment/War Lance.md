@@ -1,10 +1,13 @@
 ---
-title: "War Lance"
-noteType: ":luggage:"
-aliases: "War Lance"
+title: War Lance
+noteType: weapons
+aliases:
+  - War Lance
 foundryId: Item.EpC2fVVa9ZKfi5ce
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # War Lance

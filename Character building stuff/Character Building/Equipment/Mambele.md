@@ -1,10 +1,13 @@
 ---
-title: "Mambele"
-noteType: ":luggage:"
-aliases: "Mambele"
+title: Mambele
+noteType: weapons
+aliases:
+  - Mambele
 foundryId: Item.bl38YnAsiFPbUaEX
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Mambele

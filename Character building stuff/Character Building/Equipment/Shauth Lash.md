@@ -1,10 +1,13 @@
 ---
-title: "Shauth Lash"
-noteType: ":luggage:"
-aliases: "Shauth Lash"
+title: Shauth Lash
+noteType: weapons
+aliases:
+  - Shauth Lash
 foundryId: Item.77LPku6SAuxqPu1p
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Shauth Lash

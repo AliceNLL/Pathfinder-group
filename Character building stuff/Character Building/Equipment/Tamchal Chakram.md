@@ -1,10 +1,13 @@
 ---
-title: "Tamchal Chakram"
-noteType: ":luggage:"
-aliases: "Tamchal Chakram"
+title: Tamchal Chakram
+noteType: weapons
+aliases:
+  - Tamchal Chakram
 foundryId: Item.wwrynUZNdR39AG7P
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Tamchal Chakram

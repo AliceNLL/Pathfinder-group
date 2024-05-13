@@ -1,10 +1,13 @@
 ---
-title: "Whip Claw"
-noteType: ":luggage:"
-aliases: "Whip Claw"
+title: Whip Claw
+noteType: weapons
+aliases:
+  - Whip Claw
 foundryId: Item.jCEN0TGkejRR2EjA
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Whip Claw

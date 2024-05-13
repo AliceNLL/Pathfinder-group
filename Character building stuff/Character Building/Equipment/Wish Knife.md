@@ -1,10 +1,13 @@
 ---
-title: "Wish Knife"
-noteType: ":luggage:"
-aliases: "Wish Knife"
+title: Wish Knife
+noteType: weapons
+aliases:
+  - Wish Knife
 foundryId: Item.Dsm5grzJBnaxkx7C
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Wish Knife

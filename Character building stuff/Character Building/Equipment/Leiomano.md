@@ -1,10 +1,13 @@
 ---
-title: "Leiomano"
-noteType: ":luggage:"
-aliases: "Leiomano"
+title: Leiomano
+noteType: weapons
+aliases:
+  - Leiomano
 foundryId: Item.PAQa5mJWoJeGZTgo
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Leiomano

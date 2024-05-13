@@ -1,10 +1,13 @@
 ---
-title: "Orc Knuckle Dagger"
-noteType: ":luggage:"
-aliases: "Orc Knuckle Dagger"
+title: Orc Knuckle Dagger
+noteType: weapons
+aliases:
+  - Orc Knuckle Dagger
 foundryId: Item.aNMib1Oa5p8oJ0dM
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Orc Knuckle Dagger

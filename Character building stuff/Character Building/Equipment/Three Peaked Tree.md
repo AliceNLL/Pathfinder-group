@@ -1,10 +1,13 @@
 ---
-title: "Three Peaked Tree"
-noteType: ":luggage:"
-aliases: "Three Peaked Tree"
+title: Three Peaked Tree
+noteType: weapons
+aliases:
+  - Three Peaked Tree
 foundryId: Item.MRbkTKkxcjyzFkNI
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Three Peaked Tree

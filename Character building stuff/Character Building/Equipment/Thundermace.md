@@ -1,10 +1,13 @@
 ---
-title: "Thundermace"
-noteType: ":luggage:"
-aliases: "Thundermace"
+title: Thundermace
+noteType: weapons
+aliases:
+  - Thundermace
 foundryId: Item.uEjZGxIskYe8Ta7S
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Thundermace

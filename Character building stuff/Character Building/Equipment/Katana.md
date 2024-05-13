@@ -1,10 +1,13 @@
 ---
-title: "Katana"
-noteType: ":luggage:"
-aliases: "Katana"
+title: Katana
+noteType: weapons
+aliases:
+  - Katana
 foundryId: Item.yEgDpk722AteVMMP
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Katana

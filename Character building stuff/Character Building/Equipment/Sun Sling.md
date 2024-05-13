@@ -1,10 +1,13 @@
 ---
-title: "Sun Sling"
-noteType: ":luggage:"
-aliases: "Sun Sling"
+title: Sun Sling
+noteType: weapons
+aliases:
+  - Sun Sling
 foundryId: Item.WAtwSuoWOQsTJr3g
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Sun Sling

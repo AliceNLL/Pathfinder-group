@@ -1,10 +1,13 @@
 ---
-title: "Rhoka Sword"
-noteType: ":luggage:"
-aliases: "Rhoka Sword"
+title: Rhoka Sword
+noteType: weapons
+aliases:
+  - Rhoka Sword
 foundryId: Item.JbsAmGeHUZEZsgOp
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Rhoka Sword

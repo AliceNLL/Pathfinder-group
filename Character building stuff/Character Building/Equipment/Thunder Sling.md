@@ -1,10 +1,13 @@
 ---
-title: "Thunder Sling"
-noteType: ":luggage:"
-aliases: "Thunder Sling"
+title: Thunder Sling
+noteType: weapons
+aliases:
+  - Thunder Sling
 foundryId: Item.KZDCz7WgCaz7LtaF
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Thunder Sling

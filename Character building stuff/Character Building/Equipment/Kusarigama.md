@@ -1,10 +1,13 @@
 ---
-title: "Kusarigama"
-noteType: ":luggage:"
-aliases: "Kusarigama"
+title: Kusarigama
+noteType: weapons
+aliases:
+  - Kusarigama
 foundryId: Item.mYDj2eidYUsbPKBm
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Kusarigama

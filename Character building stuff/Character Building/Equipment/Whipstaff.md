@@ -1,10 +1,13 @@
 ---
-title: "Whipstaff"
-noteType: ":luggage:"
-aliases: "Whipstaff"
+title: Whipstaff
+noteType: weapons
+aliases:
+  - Whipstaff
 foundryId: Item.5bOQ1NBfWYxZIIWi
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Whipstaff

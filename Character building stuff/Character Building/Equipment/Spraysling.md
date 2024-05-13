@@ -1,10 +1,13 @@
 ---
-title: "Spraysling"
-noteType: ":luggage:"
-aliases: "Spraysling"
+title: Spraysling
+noteType: weapons
+aliases:
+  - Spraysling
 foundryId: Item.n6sS7iJso7T7nwpe
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Spraysling

@@ -1,10 +1,13 @@
 ---
-title: "Repeating Hand Crossbow"
-noteType: ":luggage:"
-aliases: "Repeating Hand Crossbow"
+title: Repeating Hand Crossbow
+noteType: weapons
+aliases:
+  - Repeating Hand Crossbow
 foundryId: Item.F5u39cEJqMFFJGut
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Repeating Hand Crossbow

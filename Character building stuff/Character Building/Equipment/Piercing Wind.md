@@ -1,10 +1,13 @@
 ---
-title: "Piercing Wind"
-noteType: ":luggage:"
-aliases: "Piercing Wind"
+title: Piercing Wind
+noteType: weapons
+aliases:
+  - Piercing Wind
 foundryId: Item.pZfcuP1W4cIuszb7
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Piercing Wind

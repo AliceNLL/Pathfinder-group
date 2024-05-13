@@ -1,10 +1,13 @@
 ---
-title: "Rope Dart"
-noteType: ":luggage:"
-aliases: "Rope Dart"
+title: Rope Dart
+noteType: weapons
+aliases:
+  - Rope Dart
 foundryId: Item.0zELwU53rrPhM67O
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Rope Dart

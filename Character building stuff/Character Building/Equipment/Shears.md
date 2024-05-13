@@ -1,10 +1,13 @@
 ---
-title: "Shears"
-noteType: ":luggage:"
-aliases: "Shears"
+title: Shears
+noteType: weapons
+aliases:
+  - Shears
 foundryId: Item.bmC2u0lNZ9agKv0V
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Shears

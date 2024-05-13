@@ -1,10 +1,13 @@
 ---
-title: "Tricky Pick"
-noteType: ":luggage:"
-aliases: "Tricky Pick"
+title: Tricky Pick
+noteType: weapons
+aliases:
+  - Tricky Pick
 foundryId: Item.1XlJb67g5hBs3iIR
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Tricky Pick

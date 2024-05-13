@@ -1,10 +1,13 @@
 ---
-title: "Stiletto Pen"
-noteType: ":luggage:"
-aliases: "Stiletto Pen"
+title: Stiletto Pen
+noteType: weapons
+aliases:
+  - Stiletto Pen
 foundryId: Item.BUhdwzZobzV6PdqS
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Stiletto Pen

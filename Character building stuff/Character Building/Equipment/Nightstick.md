@@ -1,10 +1,13 @@
 ---
-title: "Nightstick"
-noteType: ":luggage:"
-aliases: "Nightstick"
+title: Nightstick
+noteType: weapons
+aliases:
+  - Nightstick
 foundryId: Item.gUAE88JVPHHC6znw
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Nightstick

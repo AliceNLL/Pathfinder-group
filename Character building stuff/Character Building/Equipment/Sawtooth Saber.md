@@ -1,10 +1,13 @@
 ---
-title: "Sawtooth Saber"
-noteType: ":luggage:"
-aliases: "Sawtooth Saber"
+title: Sawtooth Saber
+noteType: weapons
+aliases:
+  - Sawtooth Saber
 foundryId: Item.9XxzQqMaUXTuY03L
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Sawtooth Saber

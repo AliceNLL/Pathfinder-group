@@ -1,10 +1,13 @@
 ---
-title: "Taw Launcher"
-noteType: ":luggage:"
-aliases: "Taw Launcher"
+title: Taw Launcher
+noteType: weapons
+aliases:
+  - Taw Launcher
 foundryId: Item.VEpehQXrrnzxoJgw
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Taw Launcher

@@ -1,10 +1,13 @@
 ---
-title: "Lion Scythe"
-noteType: ":luggage:"
-aliases: "Lion Scythe"
+title: Lion Scythe
+noteType: weapons
+aliases:
+  - Lion Scythe
 foundryId: Item.MWV6eVwuzP2VKfd3
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Lion Scythe

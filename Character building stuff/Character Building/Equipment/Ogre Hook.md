@@ -1,10 +1,13 @@
 ---
-title: "Ogre Hook"
-noteType: ":luggage:"
-aliases: "Ogre Hook"
+title: Ogre Hook
+noteType: weapons
+aliases:
+  - Ogre Hook
 foundryId: Item.JdV683gp6eVtu4x2
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Ogre Hook

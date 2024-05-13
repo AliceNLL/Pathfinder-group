@@ -1,10 +1,13 @@
 ---
-title: "Hongali Hornbow"
-noteType: ":luggage:"
-aliases: "Hongali Hornbow"
+title: Hongali Hornbow
+noteType: weapons
+aliases:
+  - Hongali Hornbow
 foundryId: Item.LMqV3UEAlEETOUdI
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Hongali Hornbow

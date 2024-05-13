@@ -1,10 +1,13 @@
 ---
-title: "Naginata"
-noteType: ":luggage:"
-aliases: "Naginata"
+title: Naginata
+noteType: weapons
+aliases:
+  - Naginata
 foundryId: Item.v7EqV2Bb0dBltbI3
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Naginata

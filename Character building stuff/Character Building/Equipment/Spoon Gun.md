@@ -1,10 +1,13 @@
 ---
-title: "Spoon Gun"
-noteType: ":luggage:"
-aliases: "Spoon Gun"
+title: Spoon Gun
+noteType: weapons
+aliases:
+  - Spoon Gun
 foundryId: Item.O0o6y0jedyfYe5Mx
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Spoon Gun

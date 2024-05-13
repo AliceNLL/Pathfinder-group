@@ -1,10 +1,13 @@
 ---
-title: "Spiked Chain"
-noteType: ":luggage:"
-aliases: "Spiked Chain"
+title: Spiked Chain
+noteType: weapons
+aliases:
+  - Spiked Chain
 foundryId: Item.lt2Nj4iOqtC0mqRM
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Spiked Chain

@@ -1,10 +1,13 @@
 ---
-title: "Rapier Pistol"
-noteType: ":luggage:"
-aliases: "Rapier Pistol"
+title: Rapier Pistol
+noteType: weapons
+aliases:
+  - Rapier Pistol
 foundryId: Item.8XymmbfZnUrWqOom
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Rapier Pistol

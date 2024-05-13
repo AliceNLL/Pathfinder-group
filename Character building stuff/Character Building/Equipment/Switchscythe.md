@@ -1,10 +1,13 @@
 ---
-title: "Switchscythe"
-noteType: ":luggage:"
-aliases: "Switchscythe"
+title: Switchscythe
+noteType: weapons
+aliases:
+  - Switchscythe
 foundryId: Item.TNyeOCQpVbLxheFA
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Switchscythe

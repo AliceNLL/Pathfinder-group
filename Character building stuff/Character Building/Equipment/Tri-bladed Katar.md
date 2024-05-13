@@ -1,10 +1,13 @@
 ---
-title: "Tri-bladed Katar"
-noteType: ":luggage:"
-aliases: "Tri-bladed Katar"
+title: Tri-bladed Katar
+noteType: weapons
+aliases:
+  - Tri-bladed Katar
 foundryId: Item.XkeDjuy9XxCdKCDQ
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Tri-bladed Katar

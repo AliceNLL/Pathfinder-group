@@ -1,10 +1,13 @@
 ---
-title: "Kris"
-noteType: ":luggage:"
-aliases: "Kris"
+title: Kris
+noteType: weapons
+aliases:
+  - Kris
 foundryId: Item.bcIwjpvS6QEEXZvs
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Kris

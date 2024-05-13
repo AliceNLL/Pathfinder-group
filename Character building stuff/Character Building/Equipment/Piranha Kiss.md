@@ -1,10 +1,13 @@
 ---
-title: "Piranha Kiss"
-noteType: ":luggage:"
-aliases: "Piranha Kiss"
+title: Piranha Kiss
+noteType: weapons
+aliases:
+  - Piranha Kiss
 foundryId: Item.hInw9zDE78Q9wCxk
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Piranha Kiss

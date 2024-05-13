@@ -1,10 +1,13 @@
 ---
-title: "Wakizashi"
-noteType: ":luggage:"
-aliases: "Wakizashi"
+title: Wakizashi
+noteType: weapons
+aliases:
+  - Wakizashi
 foundryId: Item.ZXNTOzNQCKOnpU3Y
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Wakizashi

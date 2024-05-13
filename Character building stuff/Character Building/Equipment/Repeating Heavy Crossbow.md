@@ -1,10 +1,13 @@
 ---
-title: "Repeating Heavy Crossbow"
-noteType: ":luggage:"
-aliases: "Repeating Heavy Crossbow"
+title: Repeating Heavy Crossbow
+noteType: weapons
+aliases:
+  - Repeating Heavy Crossbow
 foundryId: Item.NylvKANiFxWHqMQ0
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Repeating Heavy Crossbow

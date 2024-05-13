@@ -1,10 +1,13 @@
 ---
-title: "Wish Blade"
-noteType: ":luggage:"
-aliases: "Wish Blade"
+title: Wish Blade
+noteType: weapons
+aliases:
+  - Wish Blade
 foundryId: Item.izJe6GeJ7zEDPFTT
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Wish Blade

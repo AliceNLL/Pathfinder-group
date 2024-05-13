@@ -1,10 +1,13 @@
 ---
-title: "Spiral Rapier"
-noteType: ":luggage:"
-aliases: "Spiral Rapier"
+title: Spiral Rapier
+noteType: weapons
+aliases:
+  - Spiral Rapier
 foundryId: Item.e2abyo86p8zztI7o
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Spiral Rapier

@@ -1,10 +1,13 @@
 ---
-title: "Triggerbrand"
-noteType: ":luggage:"
-aliases: "Triggerbrand"
+title: Triggerbrand
+noteType: weapons
+aliases:
+  - Triggerbrand
 foundryId: Item.1fWbqXOPTfwffh45
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Triggerbrand

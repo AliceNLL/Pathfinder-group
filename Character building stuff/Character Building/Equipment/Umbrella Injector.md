@@ -1,10 +1,13 @@
 ---
-title: "Umbrella Injector"
-noteType: ":luggage:"
-aliases: "Umbrella Injector"
+title: Umbrella Injector
+noteType: weapons
+aliases:
+  - Umbrella Injector
 foundryId: Item.R9SyUMOSiWdLEHhG
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Umbrella Injector

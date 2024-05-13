@@ -1,10 +1,13 @@
 ---
-title: "Temple Sword"
-noteType: ":luggage:"
-aliases: "Temple Sword"
+title: Temple Sword
+noteType: weapons
+aliases:
+  - Temple Sword
 foundryId: Item.qsRvpQmB3yGnZMjg
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Temple Sword

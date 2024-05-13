@@ -1,10 +1,13 @@
 ---
-title: "Sai"
-noteType: ":luggage:"
-aliases: "Sai"
+title: Sai
+noteType: weapons
+aliases:
+  - Sai
 foundryId: Item.JC5kuOSLCwb3jA78
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Sai

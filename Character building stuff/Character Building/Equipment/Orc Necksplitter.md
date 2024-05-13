@@ -1,10 +1,13 @@
 ---
-title: "Orc Necksplitter"
-noteType: ":luggage:"
-aliases: "Orc Necksplitter"
+title: Orc Necksplitter
+noteType: weapons
+aliases:
+  - Orc Necksplitter
 foundryId: Item.9zkESLVM7tTY0zwW
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Orc Necksplitter

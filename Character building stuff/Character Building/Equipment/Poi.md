@@ -1,10 +1,13 @@
 ---
-title: "Poi"
-noteType: ":luggage:"
-aliases: "Poi"
+title: Poi
+noteType: weapons
+aliases:
+  - Poi
 foundryId: Item.x3PzIm7vhWu6bzaY
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Poi

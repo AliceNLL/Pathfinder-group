@@ -1,10 +1,13 @@
 ---
-title: "Scorpion Whip"
-noteType: ":luggage:"
-aliases: "Scorpion Whip"
+title: Scorpion Whip
+noteType: weapons
+aliases:
+  - Scorpion Whip
 foundryId: Item.rUONPHaDzix68Dim
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Scorpion Whip

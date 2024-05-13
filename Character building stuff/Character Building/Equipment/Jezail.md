@@ -1,10 +1,13 @@
 ---
-title: "Jezail"
-noteType: ":luggage:"
-aliases: "Jezail"
+title: Jezail
+noteType: weapons
+aliases:
+  - Jezail
 foundryId: Item.ZPhU5CQJWqanUSXJ
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Jezail

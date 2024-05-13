@@ -1,10 +1,13 @@
 ---
-title: "Tekko-Kagi"
-noteType: ":luggage:"
-aliases: "Tekko-Kagi"
+title: Tekko-Kagi
+noteType: weapons
+aliases:
+  - Tekko-Kagi
 foundryId: Item.SoFMftGHTJQmUgYz
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Tekko-Kagi
