@@ -1,10 +1,13 @@
 ---
-title: "Feng Huo Lun"
-noteType: ":luggage:"
-aliases: "Feng Huo Lun"
+title: Feng Huo Lun
+noteType: weapons
+aliases:
+  - Feng Huo Lun
 foundryId: Item.1zsLreblO7FCK0aw
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Feng Huo Lun

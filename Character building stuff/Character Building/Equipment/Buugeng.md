@@ -1,10 +1,13 @@
 ---
-title: "Buugeng"
-noteType: ":luggage:"
-aliases: "Buugeng"
+title: Buugeng
+noteType: weapons
+aliases:
+  - Buugeng
 foundryId: Item.VfhUVEM07LsdbMHT
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Buugeng

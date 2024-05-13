@@ -1,10 +1,13 @@
 ---
-title: "Chakri"
-noteType: ":luggage:"
-aliases: "Chakri"
+title: Chakri
+noteType: weapons
+aliases:
+  - Chakri
 foundryId: Item.2tElcWDbiuVBe9fR
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Chakri

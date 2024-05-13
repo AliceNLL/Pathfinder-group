@@ -1,10 +1,13 @@
 ---
-title: "Dwarven Scattergun"
-noteType: ":luggage:"
-aliases: "Dwarven Scattergun"
+title: Dwarven Scattergun
+noteType: weapons
+aliases:
+  - Dwarven Scattergun
 foundryId: Item.NTIAjstaO9cCS1k4
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Dwarven Scattergun

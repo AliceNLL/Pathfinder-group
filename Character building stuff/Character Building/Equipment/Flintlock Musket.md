@@ -1,10 +1,13 @@
 ---
-title: "Flintlock Musket"
-noteType: ":luggage:"
-aliases: "Flintlock Musket"
+title: Flintlock Musket
+noteType: weapons
+aliases:
+  - Flintlock Musket
 foundryId: Item.rBeTFgD3rJGA9HBR
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Flintlock Musket

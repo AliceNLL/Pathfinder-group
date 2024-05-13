@@ -1,10 +1,13 @@
 ---
-title: "Clan Pistol"
-noteType: ":luggage:"
-aliases: "Clan Pistol"
+title: Clan Pistol
+noteType: weapons
+aliases:
+  - Clan Pistol
 foundryId: Item.Qf4AR3ew3iF6QEKX
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Clan Pistol

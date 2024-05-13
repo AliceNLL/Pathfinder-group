@@ -1,10 +1,13 @@
 ---
-title: "Wrecker"
-noteType: ":luggage:"
-aliases: "Wrecker"
+title: Wrecker
+noteType: weapons
+aliases:
+  - Wrecker
 foundryId: Item.EJ6ypRimd9A6mCPR
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Wrecker

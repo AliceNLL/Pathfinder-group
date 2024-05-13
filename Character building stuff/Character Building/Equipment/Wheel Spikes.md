@@ -1,10 +1,13 @@
 ---
-title: "Wheel Spikes"
-noteType: ":luggage:"
-aliases: "Wheel Spikes"
+title: Wheel Spikes
+noteType: weapons
+aliases:
+  - Wheel Spikes
 foundryId: Item.BuOCIkbiviMOZ5Un
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Wheel Spikes

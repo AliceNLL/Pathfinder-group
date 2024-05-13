@@ -1,10 +1,13 @@
 ---
-title: "Shortbow"
-noteType: ":luggage:"
-aliases: "Shortbow"
+title: Shortbow
+noteType: weapons
+aliases:
+  - Shortbow
 foundryId: Item.SwsalZp2PTcUUFNy
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Shortbow

@@ -1,10 +1,13 @@
 ---
-title: "Combat Grapnel"
-noteType: ":luggage:"
-aliases: "Combat Grapnel"
+title: Combat Grapnel
+noteType: weapons
+aliases:
+  - Combat Grapnel
 foundryId: Item.sJ0U70XNoHiH9FoJ
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Combat Grapnel

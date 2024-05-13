@@ -1,10 +1,13 @@
 ---
-title: "Broadspear"
-noteType: ":luggage:"
-aliases: "Broadspear"
+title: Broadspear
+noteType: weapons
+aliases:
+  - Broadspear
 foundryId: Item.aTJMXRFAo1mqECVc
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Broadspear

@@ -1,10 +1,13 @@
 ---
-title: "Whip"
-noteType: ":luggage:"
-aliases: "Whip"
+title: Whip
+noteType: weapons
+aliases:
+  - Whip
 foundryId: Item.tX2zJSLNkYvOxhb8
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Whip

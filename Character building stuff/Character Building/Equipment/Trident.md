@@ -1,10 +1,13 @@
 ---
-title: "Trident"
-noteType: ":luggage:"
-aliases: "Trident"
+title: Trident
+noteType: weapons
+aliases:
+  - Trident
 foundryId: Item.3gg9W4T6BQwYJ9cR
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Trident

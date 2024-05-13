@@ -1,10 +1,13 @@
 ---
-title: "Dragon Mouth Pistol"
-noteType: ":luggage:"
-aliases: "Dragon Mouth Pistol"
+title: Dragon Mouth Pistol
+noteType: weapons
+aliases:
+  - Dragon Mouth Pistol
 foundryId: Item.6neAs0p1iInvqCXE
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Dragon Mouth Pistol

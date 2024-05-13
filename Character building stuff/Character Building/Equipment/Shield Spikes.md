@@ -1,10 +1,13 @@
 ---
-title: "Shield Spikes"
-noteType: ":luggage:"
-aliases: "Shield Spikes"
+title: Shield Spikes
+noteType: weapons
+aliases:
+  - Shield Spikes
 foundryId: Item.yploKUGWiaIKogn9
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Shield Spikes

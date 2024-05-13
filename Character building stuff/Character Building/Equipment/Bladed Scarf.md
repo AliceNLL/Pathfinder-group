@@ -1,10 +1,13 @@
 ---
-title: "Bladed Scarf"
-noteType: ":luggage:"
-aliases: "Bladed Scarf"
+title: Bladed Scarf
+noteType: weapons
+aliases:
+  - Bladed Scarf
 foundryId: Item.KJa3vrpS39KnfYlf
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Bladed Scarf

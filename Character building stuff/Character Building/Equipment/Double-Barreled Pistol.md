@@ -1,10 +1,13 @@
 ---
-title: "Double-Barreled Pistol"
-noteType: ":luggage:"
-aliases: "Double-Barreled Pistol"
+title: Double-Barreled Pistol
+noteType: weapons
+aliases:
+  - Double-Barreled Pistol
 foundryId: Item.XqKamah1EjxGeKUZ
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Double-Barreled Pistol

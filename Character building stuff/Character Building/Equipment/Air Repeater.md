@@ -1,10 +1,13 @@
 ---
-title: "Air Repeater"
-noteType: ":luggage:"
-aliases: "Air Repeater"
+title: Air Repeater
+noteType: weapons
+aliases:
+  - Air Repeater
 foundryId: Item.9odbUVr4eBLs1alG
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Air Repeater

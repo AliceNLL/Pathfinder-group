@@ -1,10 +1,13 @@
 ---
-title: "Wrist Launcher"
-noteType: ":luggage:"
-aliases: "Wrist Launcher"
+title: Wrist Launcher
+noteType: weapons
+aliases:
+  - Wrist Launcher
 foundryId: Item.MduItYFt5CmMzcPY
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Wrist Launcher

@@ -1,10 +1,13 @@
 ---
-title: "Throwing Shield"
-noteType: ":luggage:"
-aliases: "Throwing Shield"
+title: Throwing Shield
+noteType: weapons
+aliases:
+  - Throwing Shield
 foundryId: Item.WwtTLOXSU3Lq3VrF
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Throwing Shield

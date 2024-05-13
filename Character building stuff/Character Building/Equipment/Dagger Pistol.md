@@ -1,10 +1,13 @@
 ---
-title: "Dagger Pistol"
-noteType: ":luggage:"
-aliases: "Dagger Pistol"
+title: Dagger Pistol
+noteType: weapons
+aliases:
+  - Dagger Pistol
 foundryId: Item.2hJCSvDLIER3A6Gf
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Dagger Pistol

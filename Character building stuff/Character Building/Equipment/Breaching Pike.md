@@ -1,10 +1,13 @@
 ---
-title: "Breaching Pike"
-noteType: ":luggage:"
-aliases: "Breaching Pike"
+title: Breaching Pike
+noteType: weapons
+aliases:
+  - Breaching Pike
 foundryId: Item.eLbnBYY6NFQjOfXb
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Breaching Pike

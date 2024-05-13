@@ -1,10 +1,13 @@
 ---
-title: "Alghollthu Lash"
-noteType: ":luggage:"
-aliases: "Alghollthu Lash"
+title: Alghollthu Lash
+noteType: weapons
+aliases:
+  - Alghollthu Lash
 foundryId: Item.5UEl5qSlhapSgNFT
 tags:
   - Item
+  - Uncommon
+Level: 7
 ---
 
 # Alghollthu Lash

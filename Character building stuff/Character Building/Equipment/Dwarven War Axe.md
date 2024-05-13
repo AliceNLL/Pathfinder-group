@@ -1,10 +1,13 @@
 ---
-title: "Dwarven War Axe"
-noteType: ":luggage:"
-aliases: "Dwarven War Axe"
+title: Dwarven War Axe
+noteType: weapons
+aliases:
+  - Dwarven War Axe
 foundryId: Item.VDxz4RDh7TfmvUCO
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Dwarven War Axe

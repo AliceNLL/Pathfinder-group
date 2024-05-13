@@ -1,10 +1,13 @@
 ---
-title: "Chain Sword"
-noteType: ":luggage:"
-aliases: "Chain Sword"
+title: Chain Sword
+noteType: weapons
+aliases:
+  - Chain Sword
 foundryId: Item.o3D8X9fzM03mCo6S
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Chain Sword

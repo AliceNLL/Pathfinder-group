@@ -1,10 +1,13 @@
 ---
-title: "Shield Boss"
-noteType: ":luggage:"
-aliases: "Shield Boss"
+title: Shield Boss
+noteType: weapons
+aliases:
+  - Shield Boss
 foundryId: Item.mvbkw0CS8nRwgYtZ
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Shield Boss

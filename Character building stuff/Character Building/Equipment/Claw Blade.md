@@ -1,10 +1,13 @@
 ---
-title: "Claw Blade"
-noteType: ":luggage:"
-aliases: "Claw Blade"
+title: Claw Blade
+noteType: weapons
+aliases:
+  - Claw Blade
 foundryId: Item.8arTeDFEL9DuAs1u
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Claw Blade

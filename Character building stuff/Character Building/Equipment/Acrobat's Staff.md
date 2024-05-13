@@ -6,6 +6,7 @@ aliases:
 tags:
   - Item
   - Uncommon
+Level: 6
 ---
 
 # Acrobat's Staff

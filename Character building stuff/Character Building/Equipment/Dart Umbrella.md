@@ -1,10 +1,13 @@
 ---
-title: "Dart Umbrella"
-noteType: ":luggage:"
-aliases: "Dart Umbrella"
+title: Dart Umbrella
+noteType: weapons
+aliases:
+  - Dart Umbrella
 foundryId: Item.6irhBDRGbGsSkLXY
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Dart Umbrella

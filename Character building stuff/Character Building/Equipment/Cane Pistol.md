@@ -1,10 +1,13 @@
 ---
-title: "Cane Pistol"
-noteType: ":luggage:"
-aliases: "Cane Pistol"
+title: Cane Pistol
+noteType: weapons
+aliases:
+  - Cane Pistol
 foundryId: Item.rFT01lUdRkmgImy3
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Cane Pistol

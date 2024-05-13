@@ -1,10 +1,13 @@
 ---
-title: "Seedpod"
-noteType: ":luggage:"
-aliases: "Seedpod"
+title: Seedpod
+noteType: weapons
+aliases:
+  - Seedpod
 foundryId: Item.0ErliwFADxWzhBBt
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Seedpod

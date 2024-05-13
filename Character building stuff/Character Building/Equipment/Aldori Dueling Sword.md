@@ -1,10 +1,13 @@
 ---
-title: "Aldori Dueling Sword"
-noteType: ":luggage:"
-aliases: "Aldori Dueling Sword"
+title: Aldori Dueling Sword
+noteType: weapons
+aliases:
+  - Aldori Dueling Sword
 foundryId: Item.t7u8i4HiYq29mnGo
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Aldori Dueling Sword

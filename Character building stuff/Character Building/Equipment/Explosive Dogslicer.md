@@ -1,10 +1,13 @@
 ---
-title: "Explosive Dogslicer"
-noteType: ":luggage:"
-aliases: "Explosive Dogslicer"
+title: Explosive Dogslicer
+noteType: weapons
+aliases:
+  - Explosive Dogslicer
 foundryId: Item.FqRzjeTKE5CKeqUe
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Explosive Dogslicer

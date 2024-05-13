@@ -1,10 +1,13 @@
 ---
-title: "Black Powder Knuckle Dusters"
-noteType: ":luggage:"
-aliases: "Black Powder Knuckle Dusters"
+title: Black Powder Knuckle Dusters
+noteType: weapons
+aliases:
+  - Black Powder Knuckle Dusters
 foundryId: Item.Xi5s8EhRXP9SOKmF
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Black Powder Knuckle Dusters

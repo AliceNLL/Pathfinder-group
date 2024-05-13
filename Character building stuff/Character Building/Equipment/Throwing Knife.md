@@ -1,10 +1,13 @@
 ---
-title: "Throwing Knife"
-noteType: ":luggage:"
-aliases: "Throwing Knife"
+title: Throwing Knife
+noteType: weapons
+aliases:
+  - Throwing Knife
 foundryId: Item.BqDrxngjxcCc4aLU
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Throwing Knife

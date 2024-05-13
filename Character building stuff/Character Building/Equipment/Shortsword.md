@@ -1,10 +1,13 @@
 ---
-title: "Shortsword"
-noteType: ":luggage:"
-aliases: "Shortsword"
+title: Shortsword
+noteType: weapons
+aliases:
+  - Shortsword
 foundryId: Item.38vw1O7dC4Cq3NkE
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Shortsword

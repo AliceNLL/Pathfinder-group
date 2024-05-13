@@ -1,10 +1,13 @@
 ---
-title: "Alchemical Crossbow"
-noteType: ":luggage:"
-aliases: "Alchemical Crossbow"
+title: Alchemical Crossbow
+noteType: weapons
+aliases:
+  - Alchemical Crossbow
 foundryId: Item.6lRpLhss1gbA7zKR
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Alchemical Crossbow

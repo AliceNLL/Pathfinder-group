@@ -1,10 +1,13 @@
 ---
-title: "War Razor"
-noteType: ":luggage:"
-aliases: "War Razor"
+title: War Razor
+noteType: weapons
+aliases:
+  - War Razor
 foundryId: Item.H3sGVSR98OLI7fXH
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # War Razor

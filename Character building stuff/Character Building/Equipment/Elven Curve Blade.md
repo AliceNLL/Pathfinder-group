@@ -1,10 +1,13 @@
 ---
-title: "Elven Curve Blade"
-noteType: ":luggage:"
-aliases: "Elven Curve Blade"
+title: Elven Curve Blade
+noteType: weapons
+aliases:
+  - Elven Curve Blade
 foundryId: Item.XcMp65BbQx26nqkn
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Elven Curve Blade

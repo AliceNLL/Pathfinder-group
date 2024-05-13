@@ -1,10 +1,13 @@
 ---
-title: "Boarding Axe"
-noteType: ":luggage:"
-aliases: "Boarding Axe"
+title: Boarding Axe
+noteType: weapons
+aliases:
+  - Boarding Axe
 foundryId: Item.3ZAq8QoXKQisb84B
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Boarding Axe

@@ -1,10 +1,13 @@
 ---
-title: "Daikyu"
-noteType: ":luggage:"
-aliases: "Daikyu"
+title: Daikyu
+noteType: weapons
+aliases:
+  - Daikyu
 foundryId: Item.C3A9OhAPsWnU3EhS
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Daikyu

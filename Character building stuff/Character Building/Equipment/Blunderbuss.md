@@ -1,10 +1,13 @@
 ---
-title: "Blunderbuss"
-noteType: ":luggage:"
-aliases: "Blunderbuss"
+title: Blunderbuss
+noteType: weapons
+aliases:
+  - Blunderbuss
 foundryId: Item.FeZ2gVGTBF0RBChV
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Blunderbuss

@@ -1,10 +1,13 @@
 ---
-title: "Clan Dagger"
-noteType: ":luggage:"
-aliases: "Clan Dagger"
+title: Clan Dagger
+noteType: weapons
+aliases:
+  - Clan Dagger
 foundryId: Item.t97KVIuDixQcNW3X
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Clan Dagger

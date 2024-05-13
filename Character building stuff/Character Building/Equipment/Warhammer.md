@@ -1,10 +1,13 @@
 ---
-title: "Warhammer"
-noteType: ":luggage:"
-aliases: "Warhammer"
+title: Warhammer
+noteType: weapons
+aliases:
+  - Warhammer
 foundryId: Item.zdsgrZwWVRiuqJRB
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Warhammer

@@ -1,10 +1,13 @@
 ---
-title: "Sukgung"
-noteType: ":luggage:"
-aliases: "Sukgung"
+title: Sukgung
+noteType: weapons
+aliases:
+  - Sukgung
 foundryId: Item.83nu4l4jfJlDpXE6
 tags:
   - Item
+  - Common
+Level: 1
 ---
 
 # Sukgung

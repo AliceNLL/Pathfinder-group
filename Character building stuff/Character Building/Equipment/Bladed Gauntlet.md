@@ -1,10 +1,13 @@
 ---
-title: "Bladed Gauntlet"
-noteType: ":luggage:"
-aliases: "Bladed Gauntlet"
+title: Bladed Gauntlet
+noteType: weapons
+aliases:
+  - Bladed Gauntlet
 foundryId: Item.j53e8tU3JiFT3DTO
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Bladed Gauntlet

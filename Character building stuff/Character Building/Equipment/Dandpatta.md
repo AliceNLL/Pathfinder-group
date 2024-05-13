@@ -1,10 +1,13 @@
 ---
-title: "Dandpatta"
-noteType: ":luggage:"
-aliases: "Dandpatta"
+title: Dandpatta
+noteType: weapons
+aliases:
+  - Dandpatta
 foundryId: Item.Zv1mWV8yBesRCmpX
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Dandpatta

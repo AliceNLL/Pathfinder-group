@@ -1,10 +1,13 @@
 ---
-title: "Fire Lance"
-noteType: ":luggage:"
-aliases: "Fire Lance"
+title: Fire Lance
+noteType: weapons
+aliases:
+  - Fire Lance
 foundryId: Item.lL62Qbvgh4zPfaRj
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Fire Lance

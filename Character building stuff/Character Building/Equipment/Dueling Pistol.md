@@ -1,10 +1,13 @@
 ---
-title: "Dueling Pistol"
-noteType: ":luggage:"
-aliases: "Dueling Pistol"
+title: Dueling Pistol
+noteType: weapons
+aliases:
+  - Dueling Pistol
 foundryId: Item.z8ZCnZMTJomJSySt
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Dueling Pistol

@@ -1,10 +1,13 @@
 ---
-title: "Spear"
-noteType: ":luggage:"
-aliases: "Spear"
+title: Spear
+noteType: weapons
+aliases:
+  - Spear
 foundryId: Item.sKRocyYrDlWpkYFy
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Spear

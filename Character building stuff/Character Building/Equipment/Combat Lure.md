@@ -1,10 +1,13 @@
 ---
-title: "Combat Lure"
-noteType: ":luggage:"
-aliases: "Combat Lure"
+title: Combat Lure
+noteType: weapons
+aliases:
+  - Combat Lure
 foundryId: Item.JnslxceiNVYxp1xX
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Combat Lure

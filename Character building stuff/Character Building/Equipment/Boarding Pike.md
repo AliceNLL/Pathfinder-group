@@ -1,10 +1,13 @@
 ---
-title: "Boarding Pike"
-noteType: ":luggage:"
-aliases: "Boarding Pike"
+title: Boarding Pike
+noteType: weapons
+aliases:
+  - Boarding Pike
 foundryId: Item.CBb7b02ZC1CahqTh
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Boarding Pike

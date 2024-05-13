@@ -1,10 +1,13 @@
 ---
-title: "Shield Bow"
-noteType: ":luggage:"
-aliases: "Shield Bow"
+title: Shield Bow
+noteType: weapons
+aliases:
+  - Shield Bow
 foundryId: Item.K3Yp530vS6iMeTtL
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Shield Bow

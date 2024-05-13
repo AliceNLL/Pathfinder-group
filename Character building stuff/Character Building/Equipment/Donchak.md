@@ -1,10 +1,13 @@
 ---
-title: "Donchak"
-noteType: ":luggage:"
-aliases: "Donchak"
+title: Donchak
+noteType: weapons
+aliases:
+  - Donchak
 foundryId: Item.p3X7ygBXtnzivMtK
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Donchak

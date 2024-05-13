@@ -1,10 +1,13 @@
 ---
-title: "Staff"
-noteType: ":luggage:"
-aliases: "Staff"
+title: Staff
+noteType: weapons
+aliases:
+  - Staff
 foundryId: Item.I1YD2vcsyVDqUDAN
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Staff

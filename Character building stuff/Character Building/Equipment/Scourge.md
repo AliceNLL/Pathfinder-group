@@ -1,10 +1,13 @@
 ---
-title: "Scourge"
-noteType: ":luggage:"
-aliases: "Scourge"
+title: Scourge
+noteType: weapons
+aliases:
+  - Scourge
 foundryId: Item.SgFeSXwv3OQgMAtI
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Scourge

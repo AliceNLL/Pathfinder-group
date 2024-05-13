@@ -1,10 +1,13 @@
 ---
-title: "Arquebus"
-noteType: ":luggage:"
-aliases: "Arquebus"
+title: Arquebus
+noteType: weapons
+aliases:
+  - Arquebus
 foundryId: Item.XcofWyNFxZLicddQ
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Arquebus

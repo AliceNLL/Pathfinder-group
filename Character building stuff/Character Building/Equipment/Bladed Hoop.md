@@ -1,10 +1,13 @@
 ---
-title: "Bladed Hoop"
-noteType: ":luggage:"
-aliases: "Bladed Hoop"
+title: Bladed Hoop
+noteType: weapons
+aliases:
+  - Bladed Hoop
 foundryId: Item.SNop8gI3gpxYaZur
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Bladed Hoop

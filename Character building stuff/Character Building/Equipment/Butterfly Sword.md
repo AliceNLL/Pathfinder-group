@@ -1,10 +1,13 @@
 ---
-title: "Butterfly Sword"
-noteType: ":luggage:"
-aliases: "Butterfly Sword"
+title: Butterfly Sword
+noteType: weapons
+aliases:
+  - Butterfly Sword
 foundryId: Item.3hMaPtOJoxSFYFi6
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Butterfly Sword

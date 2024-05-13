@@ -1,10 +1,13 @@
 ---
-title: "Flintlock Pistol"
-noteType: ":luggage:"
-aliases: "Flintlock Pistol"
+title: Flintlock Pistol
+noteType: weapons
+aliases:
+  - Flintlock Pistol
 foundryId: Item.wqp7jLlQ9eSzndru
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Flintlock Pistol

@@ -1,10 +1,12 @@
 ---
-title: "Asp Coil"
-noteType: ":luggage:"
-aliases: "Asp Coil"
+title: Asp Coil
+noteType: weapons
+aliases:
+  - Asp Coil
 foundryId: Item.NgJdE5uV1MyEnAA8
 tags:
   - Item
+Level: 0
 ---
 
 # Asp Coil

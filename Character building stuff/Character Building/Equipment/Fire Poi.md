@@ -1,10 +1,13 @@
 ---
-title: "Fire Poi"
-noteType: ":luggage:"
-aliases: "Fire Poi"
+title: Fire Poi
+noteType: weapons
+aliases:
+  - Fire Poi
 foundryId: Item.hOI3z4E95IpPU0my
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Fire Poi

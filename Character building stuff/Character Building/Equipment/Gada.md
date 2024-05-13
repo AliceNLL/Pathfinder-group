@@ -1,10 +1,13 @@
 ---
-title: "Gada"
-noteType: ":luggage:"
-aliases: "Gada"
+title: Gada
+noteType: weapons
+aliases:
+  - Gada
 foundryId: Item.p7ry3Dnv28ENdFEl
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Gada

@@ -1,10 +1,13 @@
 ---
-title: "Battle Lute"
-noteType: ":luggage:"
-aliases: "Battle Lute"
+title: Battle Lute
+noteType: weapons
+aliases:
+  - Battle Lute
 foundryId: Item.9AHL33sLpt6OKjos
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Battle Lute

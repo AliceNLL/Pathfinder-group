@@ -1,10 +1,13 @@
 ---
-title: "Dueling Spear"
-noteType: ":luggage:"
-aliases: "Dueling Spear"
+title: Dueling Spear
+noteType: weapons
+aliases:
+  - Dueling Spear
 foundryId: Item.ijNGRSSHL78BLPxR
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Dueling Spear

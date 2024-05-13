@@ -1,10 +1,13 @@
 ---
-title: "Sword Cane"
-noteType: ":luggage:"
-aliases: "Sword Cane"
+title: Sword Cane
+noteType: weapons
+aliases:
+  - Sword Cane
 foundryId: Item.TigHlEPbPtLNvEan
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Sword Cane

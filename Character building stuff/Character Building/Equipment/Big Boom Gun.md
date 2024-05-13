@@ -1,10 +1,13 @@
 ---
-title: "Big Boom Gun"
-noteType: ":luggage:"
-aliases: "Big Boom Gun"
+title: Big Boom Gun
+noteType: weapons
+aliases:
+  - Big Boom Gun
 foundryId: Item.9GrJ3AH4yQfKiJpA
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Big Boom Gun

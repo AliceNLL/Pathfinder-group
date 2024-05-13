@@ -1,10 +1,13 @@
 ---
-title: "Boomerang"
-noteType: ":luggage:"
-aliases: "Boomerang"
+title: Boomerang
+noteType: weapons
+aliases:
+  - Boomerang
 foundryId: Item.SGyVxDbWKU4EWmP7
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Boomerang

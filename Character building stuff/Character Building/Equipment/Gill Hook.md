@@ -1,10 +1,13 @@
 ---
-title: "Gill Hook"
-noteType: ":luggage:"
-aliases: "Gill Hook"
+title: Gill Hook
+noteType: weapons
+aliases:
+  - Gill Hook
 foundryId: Item.oYEmaYkUNDfy3jSA
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Gill Hook

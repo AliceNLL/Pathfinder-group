@@ -1,10 +1,13 @@
 ---
-title: "Bladed Diabolo"
-noteType: ":luggage:"
-aliases: "Bladed Diabolo"
+title: Bladed Diabolo
+noteType: weapons
+aliases:
+  - Bladed Diabolo
 foundryId: Item.wjOYgABej9XLSjvV
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Bladed Diabolo

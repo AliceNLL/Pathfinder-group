@@ -1,10 +1,13 @@
 ---
-title: "Filcher's Fork"
-noteType: ":luggage:"
-aliases: "Filcher's Fork"
+title: Filcher's Fork
+noteType: weapons
+aliases:
+  - Filcher's Fork
 foundryId: Item.JR7WjI3pmMTJgEuQ
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Filcher's Fork

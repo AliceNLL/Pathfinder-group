@@ -1,10 +1,13 @@
 ---
-title: "Barricade Buster"
-noteType: ":luggage:"
-aliases: "Barricade Buster"
+title: Barricade Buster
+noteType: weapons
+aliases:
+  - Barricade Buster
 foundryId: Item.NE6pKdFYFoezd9sp
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Barricade Buster

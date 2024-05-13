@@ -1,10 +1,13 @@
 ---
-title: "Flying Talon"
-noteType: ":luggage:"
-aliases: "Flying Talon"
+title: Flying Talon
+noteType: weapons
+aliases:
+  - Flying Talon
 foundryId: Item.UMEMA1VKBWwdyiQ4
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Flying Talon

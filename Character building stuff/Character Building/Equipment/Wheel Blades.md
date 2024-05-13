@@ -1,10 +1,13 @@
 ---
-title: "Wheel Blades"
-noteType: ":luggage:"
-aliases: "Wheel Blades"
+title: Wheel Blades
+noteType: weapons
+aliases:
+  - Wheel Blades
 foundryId: Item.GeYoYAJQBbKcwFal
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Wheel Blades

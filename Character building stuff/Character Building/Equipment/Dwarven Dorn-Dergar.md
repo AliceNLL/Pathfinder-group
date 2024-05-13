@@ -1,10 +1,13 @@
 ---
-title: "Dwarven Dorn-Dergar"
-noteType: ":luggage:"
-aliases: "Dwarven Dorn-Dergar"
+title: Dwarven Dorn-Dergar
+noteType: weapons
+aliases:
+  - Dwarven Dorn-Dergar
 foundryId: Item.nwmblMpePKbIrlig
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Dwarven Dorn-Dergar

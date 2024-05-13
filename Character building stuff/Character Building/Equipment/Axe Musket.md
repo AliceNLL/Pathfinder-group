@@ -1,10 +1,13 @@
 ---
-title: "Axe Musket"
-noteType: ":luggage:"
-aliases: "Axe Musket"
+title: Axe Musket
+noteType: weapons
+aliases:
+  - Axe Musket
 foundryId: Item.wMphWL5LrYpYHxrH
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Axe Musket

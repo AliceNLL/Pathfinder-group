@@ -1,10 +1,13 @@
 ---
-title: "Fighting Fan"
-noteType: ":luggage:"
-aliases: "Fighting Fan"
+title: Fighting Fan
+noteType: weapons
+aliases:
+  - Fighting Fan
 foundryId: Item.4m5dr1J6z9ZBB2Mo
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Fighting Fan

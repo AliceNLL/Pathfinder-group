@@ -1,10 +1,13 @@
 ---
-title: "Dogslicer"
-noteType: ":luggage:"
-aliases: "Dogslicer"
+title: Dogslicer
+noteType: weapons
+aliases:
+  - Dogslicer
 foundryId: Item.kyncyoiS14Nvi1Ws
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Dogslicer

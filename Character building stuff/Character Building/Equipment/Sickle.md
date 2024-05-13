@@ -1,10 +1,13 @@
 ---
-title: "Sickle"
-noteType: ":luggage:"
-aliases: "Sickle"
+title: Sickle
+noteType: weapons
+aliases:
+  - Sickle
 foundryId: Item.Tfv1Q37slQNcEysH
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Sickle

@@ -1,10 +1,13 @@
 ---
-title: "Starknife"
-noteType: ":luggage:"
-aliases: "Starknife"
+title: Starknife
+noteType: weapons
+aliases:
+  - Starknife
 foundryId: Item.mNWD0h7ojGUtPw99
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Starknife

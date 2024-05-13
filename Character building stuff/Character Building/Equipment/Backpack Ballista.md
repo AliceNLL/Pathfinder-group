@@ -1,10 +1,13 @@
 ---
-title: "Backpack Ballista"
-noteType: ":luggage:"
-aliases: "Backpack Ballista"
+title: Backpack Ballista
+noteType: weapons
+aliases:
+  - Backpack Ballista
 foundryId: Item.zj9eH0Gxosku8CNF
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Backpack Ballista

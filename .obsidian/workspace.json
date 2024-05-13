@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b04b8659635d26c",
+        "id": "8454d2c7414a2adf",
         "type": "tabs",
         "children": [
           {
-            "id": "17294dedd63658b3",
+            "id": "9373bcb16ae21b45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Scizore.md",
+                "file": "Character building stuff/Character Building/Equipment/Gill Hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,17 +22,17 @@
         ]
       },
       {
-        "id": "8f06dd4ecee54349",
+        "id": "4dabd3a74072da59",
         "type": "tabs",
         "children": [
           {
-            "id": "15ce7cc4765e1087",
+            "id": "158dceb2fac6488f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Weapons.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Scizore ",
+                "query": "Gill Hook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Scizore.md",
+                "file": "Character building stuff/Character Building/Equipment/Gill Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Scizore.md",
+                "file": "Character building stuff/Character Building/Equipment/Gill Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Scizore.md"
+                "file": "Character building stuff/Character Building/Equipment/Gill Hook.md"
               }
             }
           }
@@ -166,35 +167,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17294dedd63658b3",
+  "active": "9373bcb16ae21b45",
   "lastOpenFiles": [
-    "Character building stuff/Character Building/Equipment/Scimitar.md",
-    "Character building stuff/Character Building/Equipment/Scizore.md",
+    "Character building stuff/Character Building/Equipment/Gada.md",
+    "Weapons.md",
+    "Character building stuff/Character Building/Equipment/Flying Talon.md",
+    "Character building stuff/Character Building/Equipment/Flintlock Pistol.md",
+    "Character building stuff/Character Building/Equipment/Flintlock Musket.md",
+    "Character building stuff/Character Building/Equipment/Flingflenser.md",
+    "Character building stuff/Character Building/Equipment/Fire Poi.md",
+    "Character building stuff/Character Building/Feats/All Shall End In Flames.md",
+    "Character building stuff/Character Building/Equipment/Fire Lance.md",
+    "Character building stuff/Character Building/Equipment/Filcher's Fork.md",
+    "Character building stuff/Character Building/Equipment/Fighting Stick.md",
+    "Character building stuff/Character Building/Equipment/Fighting Fan.md",
+    "Character building stuff/Character Building/Equipment/Feng Huo Lun.md",
+    "Character building stuff/Character Building/Equipment/Fangwire.md",
+    "Character building stuff/Character Building/Equipment/Explosive Dogslicer.md",
+    "Character building stuff/Character Building/Equipment/Elven Curve Blade.md",
+    "Character building stuff/Character Building/Equipment/Elven Branched Spear.md",
+    "Character building stuff/Character Building/Equipment/Dwarven War Axe.md",
+    "Character building stuff/Character Building/Equipment/Dwarven Scattergun.md",
+    "Character building stuff/Character Building/Equipment/Dwarven Dorn-Dergar.md",
+    "Character building stuff/Character Building/Equipment/Aldori Dueling Sword.md",
+    "Character building stuff/Character Building/Feats/Performative Weapons Training.md",
+    "Character building stuff/Character Building/Equipment/Dueling Spear.md",
+    "Character building stuff/Character Building/Equipment/Dueling Pistol.md",
+    "Character building stuff/Character Building/Equipment/Coldstar Pistols.md",
+    "Character building stuff/Character Building/Equipment/Dragon Mouth Pistol.md",
     "netlify.toml",
     "New Text Document.txt",
-    "Air Repeater - Weapons (Base) - Equipment - Archives of Nethys Pathfinder 2nd Edition Database.md",
-    "Untitled.md",
-    "Character building stuff/Character Building/Equipment/Sap.md",
-    "Character building stuff/Character Building/Equipment/Rungu.md",
-    "Character building stuff/Character Building/Equipment/Rotary Bow.md",
-    "Character building stuff/Character Building/Equipment/Reinforced Wheels.md",
-    "Character building stuff/Character Building/Equipment/Reinforced Stock.md",
-    "Character building stuff/Character Building/Equipment/Razor Disc.md",
-    "Character building stuff/Character Building/Equipment/Rapier.md",
-    "Character building stuff/Character Building/Equipment/Ranseur.md",
-    "Character building stuff/Character Building/Equipment/Probing Cane.md",
-    "Character building stuff/Character Building/Equipment/Pick.md",
-    "Character building stuff/Character Building/Equipment/Phalanx Piercer.md",
-    "Character building stuff/Character Building/Equipment/Panabas.md",
-    "Character building stuff/Character Building/Equipment/Nodachi.md",
-    "Character building stuff/Character Building/Equipment/Morningstar.md",
-    "Character building stuff/Character Building/Equipment/Monkey's Fist.md",
-    "Character building stuff/Character Building/Equipment/Mikazuki.md",
-    "Character building stuff/Character Building/Equipment/Meteor Hammer.md",
-    "Character building stuff/Character Building/Equipment/Maul.md",
-    "Character building stuff/Character Building/Equipment/Main-Gauche.md",
-    "Character building stuff/Character Building/Equipment/Machete.md",
-    "Character building stuff/Character Building/Equipment/Mace.md",
     "Character building stuff/Character Building/Class Features/zz_asset-files/icons-weapons-fist-fist-katar-triple-gold-black.webp",
     "Character building stuff/Character Building/Equipment/zz_asset-files/icons-weapons-fist-fist-katar-triple-engraved.webp",
     "Character building stuff/Character Building/Equipment/zz_asset-files/icons-weapons-fist-fist-katar-gold.webp",

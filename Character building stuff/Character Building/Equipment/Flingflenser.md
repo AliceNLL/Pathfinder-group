@@ -1,10 +1,13 @@
 ---
-title: "Flingflenser"
-noteType: ":luggage:"
-aliases: "Flingflenser"
+title: Flingflenser
+noteType: weapons
+aliases:
+  - Flingflenser
 foundryId: Item.s0mtegutCZSKL8f4
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Flingflenser

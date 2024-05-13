@@ -1,10 +1,13 @@
 ---
-title: "Backpack Catapult"
-noteType: ":luggage:"
-aliases: "Backpack Catapult"
+title: Backpack Catapult
+noteType: weapons
+aliases:
+  - Backpack Catapult
 foundryId: Item.i23ZkxouMkjdrPsf
 tags:
   - Item
+  - Uncommon
+Level: 1
 ---
 
 # Backpack Catapult

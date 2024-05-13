@@ -1,10 +1,13 @@
 ---
-title: "Sling"
-noteType: ":luggage:"
-aliases: "Sling"
+title: Sling
+noteType: weapons
+aliases:
+  - Sling
 foundryId: Item.YS1AIzJaWH8fzyoz
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Sling

@@ -1,10 +1,13 @@
 ---
-title: "Fangwire"
-noteType: ":luggage:"
-aliases: "Fangwire"
+title: Fangwire
+noteType: weapons
+aliases:
+  - Fangwire
 foundryId: Item.Lhp9N9Q3BeJ4WjqC
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Fangwire

@@ -1,10 +1,13 @@
 ---
-title: "Elven Branched Spear"
-noteType: ":luggage:"
-aliases: "Elven Branched Spear"
+title: Elven Branched Spear
+noteType: weapons
+aliases:
+  - Elven Branched Spear
 foundryId: Item.BUhjl7FgvXo4gxUI
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Elven Branched Spear

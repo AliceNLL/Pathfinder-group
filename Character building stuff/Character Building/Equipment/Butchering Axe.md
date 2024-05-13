@@ -1,10 +1,13 @@
 ---
-title: "Butchering Axe"
-noteType: ":luggage:"
-aliases: "Butchering Axe"
+title: Butchering Axe
+noteType: weapons
+aliases:
+  - Butchering Axe
 foundryId: Item.IMUaagBkLT9sAOd5
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Butchering Axe

@@ -1,10 +1,13 @@
 ---
-title: "Aklys"
-noteType: ":luggage:"
-aliases: "Aklys"
+title: Aklys
+noteType: weapons
+aliases:
+  - Aklys
 foundryId: Item.Qh7SENqfqOoVRJcz
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Aklys

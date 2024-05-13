@@ -1,10 +1,13 @@
 ---
-title: "Coat Pistol"
-noteType: ":luggage:"
-aliases: "Coat Pistol"
+title: Coat Pistol
+noteType: weapons
+aliases:
+  - Coat Pistol
 foundryId: Item.XePEIdGTAEedofhD
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Coat Pistol

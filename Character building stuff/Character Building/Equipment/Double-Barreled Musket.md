@@ -1,10 +1,13 @@
 ---
-title: "Double-Barreled Musket"
-noteType: ":luggage:"
-aliases: "Double-Barreled Musket"
+title: Double-Barreled Musket
+noteType: weapons
+aliases:
+  - Double-Barreled Musket
 foundryId: Item.eYbsDpcbRfOMh4Ti
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Double-Barreled Musket

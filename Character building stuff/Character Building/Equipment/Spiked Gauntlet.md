@@ -1,10 +1,13 @@
 ---
-title: "Spiked Gauntlet"
-noteType: ":luggage:"
-aliases: "Spiked Gauntlet"
+title: Spiked Gauntlet
+noteType: weapons
+aliases:
+  - Spiked Gauntlet
 foundryId: Item.OA3uRLTI3VfFaR8y
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Spiked Gauntlet

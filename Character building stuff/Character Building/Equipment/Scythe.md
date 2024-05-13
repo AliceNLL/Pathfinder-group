@@ -1,10 +1,13 @@
 ---
-title: "Scythe"
-noteType: ":luggage:"
-aliases: "Scythe"
+title: Scythe
+noteType: weapons
+aliases:
+  - Scythe
 foundryId: Item.6axar51Tg2yjrRmP
 tags:
   - Item
+  - Common
+Level: 0
 ---
 
 # Scythe

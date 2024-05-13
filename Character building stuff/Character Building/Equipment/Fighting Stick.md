@@ -1,10 +1,13 @@
 ---
-title: "Fighting Stick"
-noteType: ":luggage:"
-aliases: "Fighting Stick"
+title: Fighting Stick
+noteType: weapons
+aliases:
+  - Fighting Stick
 foundryId: Item.Lo2mxeBa2mPFmfO7
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Fighting Stick
