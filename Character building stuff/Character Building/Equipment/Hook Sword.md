@@ -1,10 +1,13 @@
 ---
-title: "Hook Sword"
-noteType: ":luggage:"
-aliases: "Hook Sword"
+title: Hook Sword
+noteType: weapons
+aliases:
+  - Hook Sword
 foundryId: Item.yhtusfLe0HIhfgUw
 tags:
   - Item
+  - Uncommon
+Level: 0
 ---
 
 # Hook Sword

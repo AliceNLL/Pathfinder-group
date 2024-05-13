@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Harmona Gun.md",
+                "file": "Character building stuff/Character Building/Equipment/Hook Sword.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Harmona Gun",
+                "query": "Hook Sword ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Harmona Gun.md",
+                "file": "Character building stuff/Character Building/Equipment/Hook Sword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Harmona Gun.md",
+                "file": "Character building stuff/Character Building/Equipment/Hook Sword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Harmona Gun.md"
+                "file": "Character building stuff/Character Building/Equipment/Hook Sword.md"
               }
             }
           }
@@ -169,6 +169,9 @@
   },
   "active": "68d0df2edad48242",
   "lastOpenFiles": [
+    "Character building stuff/Character Building/Equipment/Exquisite Sword Cane.md",
+    "Character building stuff/Character Building/Equipment/Class Kit (Barbarian).md",
+    "Character building stuff/Character Building/Equipment/Harmona Gun.md",
     "Character building stuff/Character Building/Equipment/Hand Cannon.md",
     "Character building stuff/Character Building/Equipment/Gray Prince.md",
     "Character building stuff/Character Building/Feats/Core Cannon.md",
@@ -192,9 +195,6 @@
     "Character building stuff/Character Building/Equipment/Fire Poi.md",
     "Character building stuff/Character Building/Feats/All Shall End In Flames.md",
     "Character building stuff/Character Building/Equipment/Fire Lance.md",
-    "Character building stuff/Character Building/Equipment/Filcher's Fork.md",
-    "Character building stuff/Character Building/Equipment/Fighting Stick.md",
-    "Character building stuff/Character Building/Equipment/Fighting Fan.md",
     "netlify.toml",
     "New Text Document.txt",
     "Character building stuff/Character Building/Class Features/zz_asset-files/icons-weapons-fist-fist-katar-triple-gold-black.webp",
