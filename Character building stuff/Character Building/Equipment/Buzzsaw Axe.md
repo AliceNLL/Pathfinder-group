@@ -1,10 +1,13 @@
 ---
-title: "Buzzsaw Axe"
-noteType: ":luggage:"
-aliases: "Buzzsaw Axe"
+title: Buzzsaw Axe
+noteType: weapons
+aliases:
+  - Buzzsaw Axe
 foundryId: Item.o6xaBF3EJZzJEOiL
 tags:
   - Item
+  - Common
+Level: 11
 ---
 
 # Buzzsaw Axe

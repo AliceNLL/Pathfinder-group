@@ -1,10 +1,13 @@
 ---
-title: "Iris of the Sky"
-noteType: ":luggage:"
-aliases: "Iris of the Sky"
+title: Iris of the Sky
+noteType: weapons
+aliases:
+  - Iris of the Sky
 foundryId: Item.YpCvwotorJQDvoHu
 tags:
   - Item
+  - Unique
+Level: 6
 ---
 
 # Iris of the Sky

@@ -1,11 +1,13 @@
 ---
 title: Black King
-noteType: ":luggage: :weapon:"
+noteType: weapons
 aliases:
   - Black King
 foundryId: Item.hFYdOb8WiIEWz8wO
 tags:
   - Item
+  - Uncommon
+Level: 15
 ---
 
 # Black King

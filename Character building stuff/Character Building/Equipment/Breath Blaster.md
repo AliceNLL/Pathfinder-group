@@ -1,10 +1,13 @@
 ---
-title: "Breath Blaster"
-noteType: ":luggage:"
-aliases: "Breath Blaster"
+title: Breath Blaster
+noteType: weapons
+aliases:
+  - Breath Blaster
 foundryId: Item.cR7EcdrRZImGA09a
 tags:
   - Item
+  - Uncommon
+Level: 8
 ---
 
 # Breath Blaster

@@ -1,10 +1,13 @@
 ---
-title: "Carver-cutter (True)"
-noteType: ":luggage:"
-aliases: "Carver-cutter (True)"
+title: Carver-cutter (True)
+noteType: weapons
+aliases:
+  - Carver-cutter (True)
 foundryId: Item.PVm5LbmbvsGFo6RB
 tags:
   - Item
+  - Uncommon
+Level: 18
 ---
 
 # Carver-cutter (True)

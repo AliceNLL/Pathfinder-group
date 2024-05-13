@@ -1,10 +1,13 @@
 ---
-title: "Breath Blaster (Major)"
-noteType: ":luggage:"
-aliases: "Breath Blaster (Major)"
+title: Breath Blaster (Major)
+noteType: weapons
+aliases:
+  - Breath Blaster (Major)
 foundryId: Item.pUj13OriM1RZPjZ0
 tags:
   - Item
+  - Uncommon
+Level: 18
 ---
 
 # Breath Blaster (Major)

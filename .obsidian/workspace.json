@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character building stuff/Character Building/Equipment/Zulfikar.md",
+                "file": "Character building stuff/Character Building/Equipment/Chatterer of Follies.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zulfikar",
+                "query": "Chatterer of Follies ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons.md",
+                "file": "Character building stuff/Character Building/Equipment/Chatterer of Follies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons.md",
+                "file": "Character building stuff/Character Building/Equipment/Chatterer of Follies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons.md"
+                "file": "Character building stuff/Character Building/Equipment/Chatterer of Follies.md"
               }
             }
           }
@@ -167,34 +167,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "158dceb2fac6488f",
+  "active": "75e7064e75657d66",
   "lastOpenFiles": [
-    "Character building stuff/Character Building/Equipment/Zulfikar.md",
-    "Character building stuff/Character Building/Equipment/Wish Knife.md",
-    "Character building stuff/Character Building/Equipment/Wish Blade.md",
-    "Character building stuff/Character Building/Equipment/Feng Huo Lun.md",
-    "Character building stuff/Character Building/Equipment/Whipstaff.md",
-    "Character building stuff/Character Building/Equipment/Whip Claw.md",
-    "Character building stuff/Character Building/Equipment/War Lance.md",
-    "Character building stuff/Character Building/Equipment/Wakizashi.md",
-    "Character building stuff/Character Building/Equipment/Visap.md",
-    "Character building stuff/Character Building/Equipment/Urumi.md",
-    "Character building stuff/Character Building/Equipment/Umbrella Injector.md",
-    "Character building stuff/Character Building/Equipment/Triggerbrand.md",
-    "Character building stuff/Character Building/Equipment/Tricky Pick.md",
-    "Character building stuff/Character Building/Equipment/Tri-bladed Katar.md",
-    "Character building stuff/Character Building/Equipment/Tonfa.md",
-    "Character building stuff/Character Building/Equipment/Thundermace.md",
-    "Character building stuff/Character Building/Equipment/Thunder Sling.md",
-    "Character building stuff/Character Building/Equipment/Three Peaked Tree.md",
-    "Character building stuff/Character Building/Equipment/Three-Section Naginata.md",
-    "Character building stuff/Character Building/Equipment/Thorn Whip.md",
-    "Character building stuff/Character Building/Equipment/Tengu Gale Blade.md",
-    "Character building stuff/Character Building/Equipment/Temple Sword.md",
-    "Character building stuff/Character Building/Equipment/Tekko-Kagi.md",
-    "Character building stuff/Character Building/Equipment/Taw Launcher.md",
-    "Character building stuff/Character Building/Equipment/Tamchal Chakram.md",
-    "Character building stuff/Character Building/Equipment/Talwar.md",
+    "Character building stuff/Character Building/Equipment/Chaplain's Cudgel.md",
+    "Character building stuff/Character Building/Equipment/Celestial Peachwood Sword.md",
+    "Character building stuff/Character Building/Equipment/Cayden's Tankard.md",
+    "Character building stuff/Character Building/Equipment/Caterwaul Sling.md",
+    "Character building stuff/Character Building/Equipment/Carver-cutter (True).md",
+    "Character building stuff/Character Building/Equipment/Carver-cutter (Major).md",
+    "Character building stuff/Character Building/Equipment/Carver-cutter (Greater).md",
+    "Character building stuff/Character Building/Equipment/Carver-cutter.md",
+    "Character building stuff/Character Building/Equipment/Buzzsaw Axe (Major).md",
+    "Character building stuff/Character Building/Equipment/Buzzsaw Axe (Greater).md",
+    "Character building stuff/Character Building/Equipment/Buzzsaw Axe.md",
+    "Character building stuff/Character Building/Equipment/Brilliant Rapier.md",
+    "Character building stuff/Character Building/Equipment/Breath Blaster (Major).md",
+    "Character building stuff/Character Building/Equipment/Breath Blaster (Greater).md",
+    "Character building stuff/Character Building/Equipment/Breath Blaster.md",
+    "Character building stuff/Character Building/Equipment/Kukri.md",
+    "Character building stuff/Character Building/Equipment/Bloodletting Kukri.md",
+    "Character building stuff/Character Building/Equipment/Blessed Reformer.md",
+    "Character building stuff/Character Building/Equipment/Blast Lance (Greater).md",
+    "Character building stuff/Character Building/Equipment/Blast Lance.md",
+    "Character building stuff/Character Building/Equipment/Blade of the Rabbit Prince.md",
+    "Character building stuff/Character Building/Equipment/Blade of the Black Sovereign.md",
+    "Character building stuff/Character Building/Equipment/Blade of Four Energies (Greater).md",
+    "Character building stuff/Character Building/Equipment/Blade of Four Energies.md",
+    "Character building stuff/Character Building/Equipment/Blade of Fallen Stars.md",
+    "Character building stuff/Character Building/Equipment/Black King.md",
     "netlify.toml",
     "New Text Document.txt",
     "Character building stuff/Character Building/Class Features/zz_asset-files/icons-weapons-fist-fist-katar-triple-gold-black.webp",

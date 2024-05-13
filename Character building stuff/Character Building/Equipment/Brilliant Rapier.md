@@ -1,10 +1,13 @@
 ---
-title: "Brilliant Rapier"
-noteType: ":luggage:"
-aliases: "Brilliant Rapier"
+title: Brilliant Rapier
+noteType: weapons
+aliases:
+  - Brilliant Rapier
 foundryId: Item.mGoKOaqVyYw4b3RS
 tags:
   - Item
+  - Uncommon
+Level: 14
 ---
 
 # Brilliant Rapier

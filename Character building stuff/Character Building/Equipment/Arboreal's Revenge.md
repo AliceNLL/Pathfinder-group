@@ -1,10 +1,13 @@
 ---
-title: "Arboreal's Revenge"
-noteType: ":luggage:"
-aliases: "Arboreal's Revenge"
+title: Arboreal's Revenge
+noteType: weapons
+aliases:
+  - Arboreal's Revenge
 foundryId: Item.ReoxhXXPselQDXSg
 tags:
   - Item
+  - Uncommon
+Level: 6
 ---
 
 # Arboreal's Revenge

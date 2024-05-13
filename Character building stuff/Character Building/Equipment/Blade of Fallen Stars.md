@@ -1,10 +1,13 @@
 ---
-title: "Blade of Fallen Stars"
-noteType: ":luggage:"
-aliases: "Blade of Fallen Stars"
+title: Blade of Fallen Stars
+noteType: weapons
+aliases:
+  - Blade of Fallen Stars
 foundryId: Item.pRKPyB9ZHB8fO0Mp
 tags:
   - Item
+  - Unique
+Level: 22
 ---
 
 # Blade of Fallen Stars

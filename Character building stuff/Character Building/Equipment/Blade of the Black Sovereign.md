@@ -1,10 +1,13 @@
 ---
-title: "Blade of the Black Sovereign"
-noteType: ":luggage:"
-aliases: "Blade of the Black Sovereign"
+title: Blade of the Black Sovereign
+noteType: weapons
+aliases:
+  - Blade of the Black Sovereign
 foundryId: Item.NHuuCARbI5cQy7UM
 tags:
   - Item
+  - Unique
+Level: 15
 ---
 
 # Blade of the Black Sovereign

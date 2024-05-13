@@ -1,10 +1,13 @@
 ---
-title: "Anchor Spear"
-noteType: ":luggage:"
-aliases: "Anchor Spear"
+title: Anchor Spear
+noteType: weapons
+aliases:
+  - Anchor Spear
 foundryId: Item.vYQIwlm0EawmFNJl
 tags:
   - Item
+  - Uncommon
+Level: 13
 ---
 
 # Anchor Spear

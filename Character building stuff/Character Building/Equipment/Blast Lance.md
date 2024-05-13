@@ -1,10 +1,13 @@
 ---
-title: "Blast Lance"
-noteType: ":luggage:"
-aliases: "Blast Lance"
+title: Blast Lance
+noteType: weapons
+aliases:
+  - Blast Lance
 foundryId: Item.SrvTKYvyFIcruJy7
 tags:
   - Item
+  - Uncommon
+Level: 4
 ---
 
 # Blast Lance

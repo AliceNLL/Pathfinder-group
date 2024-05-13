@@ -1,10 +1,13 @@
 ---
-title: "Carver-cutter (Major)"
-noteType: ":luggage:"
-aliases: "Carver-cutter (Major)"
+title: Carver-cutter (Major)
+noteType: weapons
+aliases:
+  - Carver-cutter (Major)
 foundryId: Item.KNnN1iKzSzO1GfUB
 tags:
   - Item
+  - Uncommon
+Level: 15
 ---
 
 # Carver-cutter (Major)

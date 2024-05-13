@@ -1,10 +1,13 @@
 ---
-title: "Bloodletting Kukri"
-noteType: ":luggage:"
-aliases: "Bloodletting Kukri"
+title: Bloodletting Kukri
+noteType: weapons
+aliases:
+  - Bloodletting Kukri
 foundryId: Item.l4pKauvCVxEJxsOf
 tags:
   - Item
+  - Uncommon
+Level: 6
 ---
 
 # Bloodletting Kukri

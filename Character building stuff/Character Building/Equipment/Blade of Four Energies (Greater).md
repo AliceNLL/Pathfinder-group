@@ -1,10 +1,13 @@
 ---
-title: "Blade of Four Energies (Greater)"
-noteType: ":luggage:"
-aliases: "Blade of Four Energies (Greater)"
+title: Blade of Four Energies (Greater)
+noteType: weapons
+aliases:
+  - Blade of Four Energies (Greater)
 foundryId: Item.I6ifN9Oqn1B4POv1
 tags:
   - Item
+  - Common
+Level: 18
 ---
 
 # Blade of Four Energies (Greater)

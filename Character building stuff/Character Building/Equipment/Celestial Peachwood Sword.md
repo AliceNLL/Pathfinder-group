@@ -1,10 +1,13 @@
 ---
-title: "Celestial Peachwood Sword"
-noteType: ":luggage:"
-aliases: "Celestial Peachwood Sword"
+title: Celestial Peachwood Sword
+noteType: weapons
+aliases:
+  - Celestial Peachwood Sword
 foundryId: Item.jpFxUtm5YMC50k9e
 tags:
   - Item
+  - Rare
+Level: 17
 ---
 
 # Celestial Peachwood Sword

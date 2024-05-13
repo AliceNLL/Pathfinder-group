@@ -1,10 +1,13 @@
 ---
-title: "Alicorn Lance"
-noteType: ":luggage:"
-aliases: "Alicorn Lance"
+title: Alicorn Lance
+noteType: weapons
+aliases:
+  - Alicorn Lance
 foundryId: Item.cALccGHyAeQF4mzN
 tags:
   - Item
+  - Uncommon
+Level: 5
 ---
 
 # Alicorn Lance

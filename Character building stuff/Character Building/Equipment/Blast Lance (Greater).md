@@ -1,10 +1,13 @@
 ---
-title: "Blast Lance (Greater)"
-noteType: ":luggage:"
-aliases: "Blast Lance (Greater)"
+title: Blast Lance (Greater)
+noteType: weapons
+aliases:
+  - Blast Lance (Greater)
 foundryId: Item.xpAEtPZexGamHMGJ
 tags:
   - Item
+  - Uncommon
+Level: 8
 ---
 
 # Blast Lance (Greater)

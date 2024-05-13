@@ -1,10 +1,13 @@
 ---
-title: "Buzzsaw Axe (Greater)"
-noteType: ":luggage:"
-aliases: "Buzzsaw Axe (Greater)"
+title: Buzzsaw Axe (Greater)
+noteType: weapons
+aliases:
+  - Buzzsaw Axe (Greater)
 foundryId: Item.NHTyGYvoPQNGxrtw
 tags:
   - Item
+  - Common
+Level: 15
 ---
 
 # Buzzsaw Axe (Greater)

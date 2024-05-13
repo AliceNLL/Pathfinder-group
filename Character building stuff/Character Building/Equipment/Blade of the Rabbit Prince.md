@@ -1,10 +1,13 @@
 ---
-title: "Blade of the Rabbit Prince"
-noteType: ":luggage:"
-aliases: "Blade of the Rabbit Prince"
+title: Blade of the Rabbit Prince
+noteType: weapons
+aliases:
+  - Blade of the Rabbit Prince
 foundryId: Item.IbaxcbRUShIlrY0Z
 tags:
   - Item
+  - Rare
+Level: 15
 ---
 
 # Blade of the Rabbit Prince

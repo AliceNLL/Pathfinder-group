@@ -1,10 +1,13 @@
 ---
-title: "Auspicious Scepter"
-noteType: ":luggage:"
-aliases: "Auspicious Scepter"
+title: Auspicious Scepter
+noteType: weapons
+aliases:
+  - Auspicious Scepter
 foundryId: Item.GbKzarPL3BY0kAaQ
 tags:
   - Item
+  - Common
+Level: 5
 ---
 
 # Auspicious Scepter

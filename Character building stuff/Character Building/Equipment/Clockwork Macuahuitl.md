@@ -1,10 +1,13 @@
 ---
-title: "Clockwork Macuahuitl"
-noteType: ":luggage:"
-aliases: "Clockwork Macuahuitl"
+title: Clockwork Macuahuitl
+noteType: weapons
+aliases:
+  - Clockwork Macuahuitl
 foundryId: Item.ihZmOreIdYlKmqhN
 tags:
   - Item
+  - Rare
+Level: 0
 ---
 
 # Clockwork Macuahuitl

@@ -1,10 +1,13 @@
 ---
-title: "Cayden's Tankard"
-noteType: ":luggage:"
-aliases: "Cayden's Tankard"
+title: Cayden's Tankard
+noteType: weapons
+aliases:
+  - Cayden's Tankard
 foundryId: Item.dFBq4PluiGvGSwAs
 tags:
   - Item
+  - Common
+Level: 25
 ---
 
 # Cayden's Tankard

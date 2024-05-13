@@ -1,10 +1,13 @@
 ---
-title: "Ankylostar"
-noteType: ":luggage:"
-aliases: "Ankylostar"
+title: Ankylostar
+noteType: weapons
+aliases:
+  - Ankylostar
 foundryId: Item.BOg210XPTwHtxyZT
 tags:
   - Item
+  - Uncommon
+Level: 13
 ---
 
 # Ankylostar

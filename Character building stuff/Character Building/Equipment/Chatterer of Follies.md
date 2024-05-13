@@ -1,10 +1,13 @@
 ---
-title: "Chatterer of Follies"
-noteType: ":luggage:"
-aliases: "Chatterer of Follies"
+title: Chatterer of Follies
+noteType: weapons
+aliases:
+  - Chatterer of Follies
 foundryId: Item.9qtKSRfEmShQIJ71
 tags:
   - Item
+  - Uncommon
+Level: 6
 ---
 
 # Chatterer of Follies

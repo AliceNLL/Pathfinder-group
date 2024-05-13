@@ -5,7 +5,7 @@ bomb
 ```dataview
 TABLE WITHOUT ID
 file.link as "Weapons", level as "Level", tags[1] as "Rarity"
-FROM "Character building stuff/Character Building/Equipment" AND #Common OR #Uncommon 
+FROM "Character building stuff/Character Building/Equipment" AND #Common OR #Uncommon OR #Rare OR #Unique
 WHERE contains(noteType, "weapons") 
 SORT level asc
 ```

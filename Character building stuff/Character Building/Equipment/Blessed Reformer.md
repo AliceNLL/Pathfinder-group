@@ -1,10 +1,13 @@
 ---
-title: "Blessed Reformer"
-noteType: ":luggage:"
-aliases: "Blessed Reformer"
+title: Blessed Reformer
+noteType: weapons
+aliases:
+  - Blessed Reformer
 foundryId: Item.jpZCanGPSnzUZzoi
 tags:
   - Item
+  - Uncommon
+Level: 14
 ---
 
 # Blessed Reformer

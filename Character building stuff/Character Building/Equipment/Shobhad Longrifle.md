@@ -1,10 +1,13 @@
 ---
-title: "Shobhad Longrifle"
-noteType: ":luggage:"
-aliases: "Shobhad Longrifle"
+title: Shobhad Longrifle
+noteType: weapons
+aliases:
+  - Shobhad Longrifle
 foundryId: Item.AFLCC7UO50hU0Bgb
 tags:
   - Item
+  - Rare
+Level: 1
 ---
 
 # Shobhad Longrifle

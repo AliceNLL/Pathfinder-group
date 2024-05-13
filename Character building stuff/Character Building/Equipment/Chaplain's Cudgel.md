@@ -1,10 +1,13 @@
 ---
-title: "Chaplain's Cudgel"
-noteType: ":luggage:"
-aliases: "Chaplain's Cudgel"
+title: Chaplain's Cudgel
+noteType: weapons
+aliases:
+  - Chaplain's Cudgel
 foundryId: Item.E8AG9ZZgm7seDjiz
 tags:
   - Item
+  - Common
+Level: 9
 ---
 
 # Chaplain's Cudgel

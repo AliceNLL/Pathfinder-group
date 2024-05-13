@@ -1,10 +1,13 @@
 ---
-title: "Caterwaul Sling"
-noteType: ":luggage:"
-aliases: "Caterwaul Sling"
+title: Caterwaul Sling
+noteType: weapons
+aliases:
+  - Caterwaul Sling
 foundryId: Item.YFTuMb8KGuxGtMjH
 tags:
   - Item
+  - Common
+Level: 5
 ---
 
 # Caterwaul Sling

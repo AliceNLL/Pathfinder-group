@@ -1,10 +1,13 @@
 ---
-title: "Batsbreath Cane"
-noteType: ":luggage:"
-aliases: "Batsbreath Cane"
+title: Batsbreath Cane
+noteType: weapons
+aliases:
+  - Batsbreath Cane
 foundryId: Item.GZ5dCz9c85PNxvgw
 tags:
   - Item
+  - Common
+Level: 10
 ---
 
 # Batsbreath Cane

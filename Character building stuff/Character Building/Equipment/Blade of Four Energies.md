@@ -1,10 +1,13 @@
 ---
-title: "Blade of Four Energies"
-noteType: ":luggage:"
-aliases: "Blade of Four Energies"
+title: Blade of Four Energies
+noteType: weapons
+aliases:
+  - Blade of Four Energies
 foundryId: Item.7jAZBlyETlhI6tvh
 tags:
   - Item
+  - Common
+Level: 13
 ---
 
 # Blade of Four Energies
