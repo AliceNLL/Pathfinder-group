@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/weapons/"}
+{"dg-publish":true,"permalink":"/src/site/notes/weapons/"}
 ---
+
 
 Items not on list:
 Alchemical bomb
