@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/characters/brother-egbert/"}
+---
+
+Brother Egbert (Human) is an only child and spent his childhood with his uncle who was a member of a small order of knights after the deaths of his parents. During this time, he spent with the order he was an assistant among the pillars, the non-combative members of the order, learning how noncombatants provide for the physical and mental well-being of an army. One of the pillars, an old man who was a priest of Sarenrae and healer, taught Brother Egbert the healing arts. The old priest made such an impression on him that he decided to become a priest of Sarenrae himself shortly after his uncle died in an accident being thrown from a horse. As part of his training as a priest, Brother Egbert is required to spend some time out in the world in order to grow in maturity and learn about its many peoples and cultures until such time as he is called to serve at the temple where he studied. Seeing it as the best way to fulfill this part of his training Brother Egbert joined the Pathfinders.
