@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome To PathGarden! 🌱
 
-![[pf.png]]
+--- title: pf.png ---
 
 #### This is my **Pathfinder** Group's Obsidian website
 
