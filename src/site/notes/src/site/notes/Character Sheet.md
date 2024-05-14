@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/character-sheet/"}
+{"dg-publish":true,"permalink":"/src/site/notes/character-sheet/"}
 ---
+
 
 
 ````col
