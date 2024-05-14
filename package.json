@@ -12,9 +12,6 @@
         "build:sass": "sass src/site/styles:dist/styles --style compressed",
         "get-theme": "node src/site/get-theme.js",
         "build": "npm-run-all get-theme build:*"
-          "engines": {
-    "node": "16.x"
-  },
     },
     "keywords": [],
     "author": "",
